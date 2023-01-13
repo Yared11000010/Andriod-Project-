@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="Seduction.Amharic.Five">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="1000dp"
+        android:background="@color/design_default_color_error"
+        android:orientation="vertical"
+        android:weightSum="11">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/txt_head"
+                android:layout_width="381dp"
+                android:layout_height="49dp"
+                android:layout_marginStart="23dp"
+                android:layout_marginLeft="23dp"
+                android:layout_marginTop="19dp"
+                android:layout_marginEnd="32dp"
+                android:layout_marginRight="32dp"
+                android:background="@drawable/bgd"
+                android:text="               የመተዋወቅ ጥበብ"
+                android:textColor="#FFFFFF"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.36"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="match_parent"
+                android:layout_height="1800dp"
+                android:layout_marginStart="16dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginTop="100dp"
+                android:layout_marginEnd="14dp"
+                android:layout_marginRight="14dp"
+                android:background="@drawable/bgd"
+                android:gravity="center_horizontal|start"
+                android:text="\n1. ቦታና ጊዜ ምረጥ:\nደስ የምትልህን ሴት ለመተዋወቅ የምትመርጠው ቦታና ጊዜ ወሳኝ ነው፡፡ ጭር ባለ ቦታ ጠብቀህ ልትተዋወቃት ብትሞክር ፈርታህ ልትሸሽ ትችላለች፡፡ ጨለማ ላይ ከጠበቅካትም እንደዛው፡፡ በስራ በተጠመደችበትና ከሰዎች ጋር በተመስጦ በምታወራበት ጊዜ ለመተዋወቅ ከቀረብካትም አስፈላጊውን ትኩረት ላትሰጥህ ትችላለች… ዴንዘል ዋሺንግተን ካልሆንክ በስተቀር፡፡ ስለዚህ እንደዚህ ዓይነት ቦታ፣ ጊዜና ሁኔታ ፍፁም አትጠቀም፡፡ - በማያስፈራ ጊዜና ቦታ. እንደ ካፌ፣ መንገድ፣ ሞል፣ ባር፣ ክለብና _ ማንኛውም መዝናኛ ስፍራዎች ቀርቦ ለማናገር ... ለመተዋወቅ አሪፍ ቦታዎች ናቸው። \n\n2. ዓይኖቹዋን በዓይኖችህ ተመልከት:\nዓይኖቹዋን በዓይኖችህ ለተወሰኑ ሰከንዶች ተመልከታቸው ።ይህ ሁለት ጠቀሜታ አለው ።አንደኛ አይኖችዋን ትኩር ብለህ ስትመለከታቸው በቀጥታ ኮቬንትሪያል ስትራተም ከተባለው አንጎልዋ ውሰጥ ከሚገኘው አካል ጋር አስተዋውቆ ያስመዘግብሀል ።ሁለተኛ ትኩር ብለህ ስታያት የማትፈራ ደፋር መሆንህን መልዕክት አስተላልፋለህ ።አይን ለ አይን መተያየቱ በዝቶ ወደ ማፍጠጥ መሄድ የለበትም አይተሀት መልሳ ስታይህ ደንግጠህ ወይም አፍረህ ማጎንበስ የለብህም ።እሺ ታድያ ምንድነው ማድረግ ያለብኝ ቶሎ ንገረኝ እያልክ እንደሆነ ይሰማኛል ። ዓይን ለ ዓይን ከተያያችሁ በኋላ ፈገግ ብለህ በመተማመን ስሜት ወደሷ ተራምደህ ታወራታለህ ። \n\n3.መክፈቻ ጨዋታ:\nዓይኖቹዋን ና ዓይኖችህን አስተዋውቀህ ፈገግታህን አስከትለህ በራስ መተማመን ስሜት ከቀረብካት በኋላ ቀጣዩ ነገር ትኩረቷን የሚስብልህን መክፈቻ ንግግር ማድረግ ነው ።ጨዋታውን ለመጀመር ያላቹበት አካባቢ ሁኔታ ብትጠቀም ይመረጣል ።በተለይ መረጃ በመጠየቅ መጀመር ሁልጊዜ ውጤቱ አሪፍ ነው ።ሰዎች በተፈጥሮ የሚያውቁትንንና የሚችሉትን ማድረግ ያስደስታቸዋል ለምሳሌ ሱፐር ማርኬት ውስጥ ከሆናችሁ ታድያስ ...ብዙ አይነት ቆሎ ነው የተደራደረው ና አሪፍ ቆሎ የትኛው ነው ብለህ ልትጀምር ትችላለህ ። የአካባቢው ሁኔታ በመጠቀም የሆነ መረጃ ወይም አቅጣጫ በመጠየቅ ጨዋታውን መክፈት ትችላለህ ።ሌላ አሪፍ ጨዋታ መክፈቻ ርዕሰ ደግሞበሆነ ጉዳይ የእሷን አስተያየት መጠየቅ ነው ለምሳሌ ጓደኛዬ ለማግባት እየተዘጋጀ ነው ።ድንገት ሊያገባ ሲል የቀድሞ ፍቅረኛው መደወል ጀመረች .....ጓደኛዬ በሁኔታው ግራ ተጋብቷል በዚ ጉዳይ የአንቺ አስተያየት ምንድን ነው? በንደዚህ መልኩ ጨዋታውን ጀምረህ ትኩረቷን ከያዝክ በኋላ ቀልብ ማራኪ ወደሆነው ወሬ ርዕሶች መግባት ነው ።በነገራችን ላይ አለባበስሽ ያምራል በሚል አድናቆት ፍላጎትህን አንፀባርቀህ ሌላ የወሬ አጀንዳ መክፈት ትችላላህ ። \n\n4.ጨዋታውን በአሪፍ ሁኔታ ቋጨው:\nከማረከችህ ልጅ ጋር የተጀመረውን ጨዋታ መቋጨት ፈታኝ ነው ። በተለይ በደንብ ፊት ስታህ እያወራችና እነሳቀች ከሆነ ጨዋታው እንደ ማር ይጣፍጣል ትታለላለህ ይሄንን ደጋግመህ አንብበህ ብትሄድም ጨዋታውን ማቋረጥ ይፈትንሀል ።በቅፅበት ሳትታለል ጨዋታ መቋጨት ልጅቷን የግልህ ለማድረግ ወሳኝ ሚና ይጫወታል ። \n\n5.የትውውቅ መልካም አጨራረስ:\nየትውውቅ ሂደት የሚጠይቀውን በሙሉ በጥሩ ሁኔታ አከናውነህ በወሳኙ ስዓት ላይ ደርሰሀል ።ትውውቅ በመልካም ሁኔታ ተጠናቀቀ የምንለው ደግሞ የሁለታችሁን ግንኙነት የሚያስቀጥል ስራ ስታከናውን ነው ።ጨዋታው ተመችቷት ብዙ ለማውራት ፍላጎት እያላት ወሬውን አቋርጠህ ሌላ ጊዜ እንዲቀጥል ቀጠሮ አስይዘ መለየት ራሱን የቻለ ጥበብ ነው ።ስዓት አየት አርገህ ሊሆን ይችላል..... ምን እንደሆነ ታውቂያለሽ አንቺ ጋር ማውራት በጣም ደስ ይላል ። ግን አሁን የግድ መሄድ አለብኝ ሌላ ጊዜ ተገናኝተን ጨዋታ ብንቀጥል ደስ ይለኛል በሚል ስልኳን ተቀብለህ ላጥ ማለት ነው ።"
+                android:textColor="#FFFFFF"
+                android:textSize="18sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+    </LinearLayout>
+</ScrollView>
+

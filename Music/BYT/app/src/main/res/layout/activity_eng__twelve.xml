@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="Seduction.English.Eng_Twelve">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="1000dp"
+        android:background="@color/design_default_color_error"
+        android:orientation="vertical"
+        android:weightSum="11">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/txt_head"
+                android:layout_width="386dp"
+                android:layout_height="69dp"
+                android:layout_marginStart="23dp"
+                android:layout_marginLeft="23dp"
+                android:layout_marginTop="19dp"
+                android:layout_marginEnd="32dp"
+                android:layout_marginRight="32dp"
+                android:background="@drawable/bgd"
+                android:text="Short Training to become Humorous "
+                android:textColor="#FFFFFF"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.36"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="match_parent"
+                android:layout_height="1400dp"
+                android:layout_marginStart="16dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginTop="100dp"
+                android:layout_marginEnd="14dp"
+                android:layout_marginRight="14dp"
+                android:background="@drawable/bgd"
+                android:gravity="center_horizontal|start"
+                android:text="1. People Emotional Anyway Answer When giving If I notice, “I really But This why To hear you Can he ? ” for example One Woman “ Oops People Next to me When you smoke I hate it , ” she says Like this To hear you Can he ? ” I'm sorry To smoke Strong Without Emotion Develop You can why Is it Cigarettes In this Distance Smell Where you can Special Without Experience Do you have I mean It is .
+                \n\n2. Say “ anyway … ” Soon My face Turn I do for example One Woman : “ There Ga She has Son Aren't you disgusted ? ” If you say , “ You I think so You were ! Anyway . &quot; Sensitive Smile Elna to the other Place My face I turn around . to the other Place Seeing and The game To change I do Effort Laughs
+                \n\n3. Women What they say Each Sentence Thing I twist . Actively I will follow . “ To Club We went Beer &quot;Let 's drink ,&quot; she said Like that If you say, ' Let 's do it, ' why not ? Right here Let's do it You mean Is it over here Congratulations The chair Well To move We are not comfortable . Then Instead Outside If we drink &quot;It's better ,&quot; I said .
+                \n\n4. Sexual Harassment I'm being held If so By pretending Repeatedly I miss her . For example, “ very I'm tired It is : Now Bed Time If you tell me What Did you say? Bed ... yet Kiss As you can see Congratulations Without confirmation to the Bed To take me Do you want Oh First   Well Introduction Precedes them Those Ages Where Are you in? ” Is :
+                \n\n5. I exaggerate Thick Female Next to us When you pass When I see it, “ I guess Hey ... 200 kilos ? ” I'll tell her Anyway Opportunity About her dress Or In Care Of Her hair Complaint When you present If I see Still Still I keep repeating I will lift her up why it is Well Not filtered Isn't it ? ” If she told me, “ Here I am Case On nothing else Comment give away I do not want to: This nice Joke Is a lot of Time Simplified Without Beat Follow me and then The day Full In Care Of She Hair I Introduction I lost Picking up , Man All Her hair Surprisingly As you can see I am talking , From her With To be seen why As embarrassing to me I'm talking I joked with her I spend .
+                \n\n6. In my area Available Things On To joke i will try Large Seat She has Female Next to us If she passes away , “she will Bread over here at home In She is walking &quot; I say Loud I said :
+                \n\n7. Many I don't laugh Also By myself Jokes I do not laugh because of By myself Jokes If I laughed My joke Of laughter Power I will reduce it If I say so But I was shocked a little bit It lasts . "
+                android:textColor="#FFFFFF"
+                android:textSize="18sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+    </LinearLayout>
+</ScrollView>
+

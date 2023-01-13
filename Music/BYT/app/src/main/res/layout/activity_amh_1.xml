@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="1500dp"
+    tools:context="Seduction.Amharic.One">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="1000dp"
+        android:background="@color/design_default_color_error"
+        android:orientation="vertical"
+        android:weightSum="11">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="379dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="17dp"
+                android:layout_marginLeft="17dp"
+                android:layout_marginTop="12dp"
+                android:layout_marginEnd="15dp"
+                android:layout_marginRight="15dp"
+                android:background="@drawable/bgd"
+                android:text="1. አቅራቢ እና ጠባቂ - \n\
+ልክ በዋሻው ዘመን እንደነበረው ሁሉ በአሁኑ ዘመንም የበለጠ ማቅረብና መጠበቅ የሚችል ወንድ የበለጠ መማረክና ማንበርከክ ይችላል። ሴቶች በሃብታሞች፣ በዝነኞችና በባለስልጣኖች የሚማረኩት ለምን ይመስልሃል? ቆንጆ ሴቶችን የምታየው ቆንጆ ቆንጆ መኪና ከሚነዱና አሪፍ አሪፍ ቦታ ከሚዝናኑት ጋር ነው ወይስ በእግር ከሚሄዱና በቀበሌ መዝናኛ ክበብ ከሚያሳልፉ? መልሱ ግልፅና መራራ ሃቅ ነው: : አስታውስ ‹‹ሴቶች ማቴሪያሊስቶች ናቸው›› እንዳትል፡ ማቅረብና መጠበቅ ለሚችል ወንድ መማረክ ተፈጥሯዊ ስሜታቸው እንጂ  ምርጫቸው አይደለም፡ ይልቅ አቅራቢና ጠባቂ ለመሆን ጣር… ለህይወትህም አስፈላጊ ነውና፡ ይህ ማለት ግን ሴቶች ማቅረብና መጠበቅ ለሚችል ወንድ ብቻ ይማረካሉ ማለትም አይደለም ፡፡
+\n\n2. በራስ መተማመን (ልበ ሙሉነት)- \n
+በራስ የመተማመን ስሜት ያለው ልበ ሙሉ ወንድ የሴቶችን ልብ የማቅለጥ አቅም አለው፡ በራስ የመተማመን ስሜት ያለው ልበ ሙሉ ወንድ መሆንህን ለማረጋገጥ ልክ እንደ ዋሻው ዘመን ወንድ ጦር ይዘህ ከአንበሳ ጋር ለመፋለም ጫካ መግባት አይጠበቅብህም፡፡ አለመርበትበት፣ አለመቅለስለስ፣ አካሄድ ማሳመር፣ ትኩር ብለህ ዓይናቸውን ለማየትና ዘና ብለህ ለማናገር አለመፍራት... ናቸው የሚጠበቁብህ፡፡ ከዋሻው ዘመን ወንድ ጋር ሲነፃፀር የእኛ ዘመን እጅግ በጣም ቀላል ነው፡ ማሳሰቢያ፡ ሴቶች በራስ መተማመን ስሜት ያለውና የሌለውን ወንድ ከርቀት አሽትተው የመለየት ከፍተኛ ችሎታ አላቸው ስለዚህ በተፈጥሮ _በራስ የመተማመን ስሜት.. ልበ ሙሉነት የሚያንስህ ከሆነ መተማመን. ልበ ሙሉነት ሁሉንም ሴቶች የመማረክ ኃይል ያለው መሣሪያ ነው፡
+\n\n3. ተጨዋችነት (ቀልድ አዋቂነት)፡\n
+ሴቶች የሚያስቃቸው ... ተጨዋች ወንድ በጣም ይወዳሉ፡፡ ለምን በጣም ግልፅ ነው ... መሳቅ ይወዳሉ ይፈልጋሉ ለማሳቅ የግድ ኮሜዲያን መሆን አይጠበቅብህም ጨዋታ ቻልና ቀለል ያለ……… ለጨዋታና ለሳቅ ክፍት የሆነ ስብዕና መገንባት በቂ ነው፡፡ ሳቅ ለደስተኛ ሕደወትና ለረዥም ዕድሜ ወሳኝ ሚና ይጫወታል ስለዚህ ሴቶች የሳቃቸው ምንጭ የሆነን ጨዋታ አዋቂ ወንድ ቢወዱ አትፍረድባቸው። ይልቅ ፈታ በል የተሊያዩ ቀልዶችን የመስማትና የማንበብ ልምድ አዳብር። ቀልድ አወራር ተለማመድ ፡፡ ተጨዋችነት (ቀልድ  አዋቂነት) ብዙ መልከ መልካም ያልሆኑ ወንዶች ሴቶችን ለመማረክ የሚጠቀሙበት ምስጢሪዊ መሣሪያ ነው፡፡ መልከ መልካም ሆንክም አልሆንክም መሣሪያውን የግል አድርገው ተጠቀምበት።  የጨዋታና የቁምነገርን ጊዜያት እንዳትቀላቅላቸው፡ ለጨዋታም ለቁምነገርም ጊዜ ይኑርህ ጊዜህን ሙሉ ለጨዋታና ለሳቅ ብቻ ከሰጠህ አጫዋች (ክላውን) የመባል አደጋ ሊጋጥምህ ይችላል፡፡
+ \n\n4. ዝና ፡\n
+ዝነኞች የብዙ ሰዎችን ቀልብ ይማርካሉ። በመልካም ስራቸው ዝነኛ የሚሆኑ ሰዎች በህዝብ የመወደድና የመደነቅ ዕድልም አላቸው፡ ይህ ማለት ደግሞ ተሰሚነትና ኢኮኖሚያ አቅም አላቸው ማለት _ ነው፡ ተሰሚነትና ኢኮኖሚያዊ አቅም ሲመነዘሩ ደግሞ አቅራቢነትና ጠባቂነት ይሆናሉ፡፡ በዚያ ላይ የዝነኞች ኑሮ ከአብዛኛው ህዝብ ለየትና ደልቀቅ ያለ ሁኔታ ይኖረዋል፡፡ ዝና የሚያስገኛቸው የልዩ ልዩ ጥቅማ ጥቅሞች ባለቤት የሆኑ ዝነኛ ወንዶች ሴቶችን የመማረክ ዕድላቸው ከፍተኛ ነው፡፡ በእነዚህ እውነታዎች ዝነኛ ወንዶች የብዙ ሴቶች ዓይን ያርፍባቸዋል፡፡ ሴቶች ለዝና እንዲማረኩ የሚያደርጋቸው ዋናው ነጥብ የሚወለደውም እዚህ ላይ ነው ሴቶች በብዙ ሴቶች በሚፈለጉ ወንዶች ይማረካሉ፡ በብዙ ሴቶች የሚፈለጉ ወንዶችን የግላቸው ማድረግ ይፈልጋሉ ዝና ሙዚቃና ፊልምን በመሳሰሉ የጥበብ ሥራዎች አይገደብም፡ በማንኛውም ዓይነት ሥራ ስመ-ጥር መሆን ማለት ነው ሴቶች ፈገግ የሚሉለት ወንድ የበለጠ ብዙ ሴቶችን የመማረክ ዕድል እንዳለው ጥናቶች አረጋግጠዋል ሴቶች ፈግ የሚሉለት ወንድ እንደዚህ ዓይነት ፅድል ካለው. ብዙ አድናቂዎች ያሉት ዝነኛ ወንድ ምን ያህል ማራኪ ሊሆን እንደሚችል መገመት ይቻላል፡
+ \n\n5. ዕውቀት:\n
+አሁን _ ዕውቀት ወደ ገንዘብና ወደ ዝና የሚመነዘርበት…. የዕውቀት ኢኮኖሚ ዘመን ላይ እንገኛለን፡ ገንዘብና ዝና ሴቶችን የሚማርኩ ብቃቶች እንደሆኑ ከላይ አይተናል፡ ዕውቀት ለብቻው ወደ ገንዘብና ወደ ዝና ሳይመነዘርም ግን የመማረክ ኃይል አለው፡ ብዙ ሰዎች በተሰበሰቡበት ቦታ አንድ ርዕስ ጉዳይ ተነስቶ ሁሉም ግራ በመጋባት ሲቁለጨለጭ አንተ በዕውተት የታግ በቂና አሳማኝ ማብራሪያ ከሰጠህ ሌት ጓደኛህ በኩራት እጅvን አሊያም ወገብህን ጭምቅ ታደርግሃለች። በቂ ዕውቀት ሲኖርህ የሰከነና ያገናዘበ ውሳኔ መወሰን ትችላለህ፡ በዚህ ሁሉ ድምር ደግሞ ሴቶች ስኬታማ ህይወት ሊኖርህ እንደሚችል መተንበይ ይችላሉ። ዕውቀት፣ አስተዋይነት፣ ስኬት. ..ማራh ብቃቶችናችው::
+\n\n6. የዓላማ ፅናትና አቅም:\n
+አንድ ሰው በህይወቱ ሊያሳካው የሚፈልገው ነገር ሲኖርና ያንን ነገር ለማሳካት ቁርጠኝነት ያለው.. በሚያጋጥሙት ችግሮችና መሰናክሎች ተስፋ ሳይቆርጥ የሚፈልገውን ነገር ለማሳካት ተግቶ ወደፊት ሲገሰግስ የዓላማ ፅናት አለው ይባላል፡፡ የህይወት መንገዱን አጥርቶ በመወሰን መንገዱ ላይ በሚገጥሙት እንቅፋቶች ሳይሸበርና ሳይንበረከክ የሚፈልገው መዳረሻ ድረስ የሚጓዝ ሰውም እንደዚያው ባለ ፅኑ ዓላማ› እንለዋለን፡፡ አንድን ነገር ለማግኘት አቅዶ ዕቅዱን ለማሳካት ወለም ዘለም ሳይል ጠንክሮ ሌት ተቀን የሚሰራ. እርሱም የዓላማ ፅናት አለው፡፡ በአጠቃላይ ተስፋ የማይቆርጥ፤ የማይበገር ለፈለገውና ላቀደው ዓላማ በፅናት የሚቆምና የሚሠራ ሰው የሴቶችን ልብ በቀላሉ ያሸንፋል፡፡ ለዓላማ መፅናት… አለመወላወልና አለመልፈስፈስ ሴቶችን የሚማርክ ጠንካራ ብቃት ነው፡፡ ሴቶች የወንዶችን የወደፊት ዕጣ ፈንታ የማንበቡና የመተንበይ ተስጥዖ አላቸው ስለሆነም _ አሁን ስኬታማ ባትሆን እንኳን ወደፊት ስኬታማ የመሆን አቅም ካለህ ጥሩ ነጥብ ይሰጡሃል፡፡  ራዕይ ያለውና ራዕዩን ህልሙን ለማሳካት የማይተኛ ጠንካራ ወንድ ሴቶችን ይማርካል ስለዚህ እስካሁን ስኬታማ ካልሆንክ ባለ ራዕይ ሁን፡ ራዕይህን ለማሳካት ሁልጊዜ ማልደህ ብርሃኔ ንጉ ተነስ፡ እንድ ቀን ራዕይህን እንድታሳካ የምታግዝህ ቆንጆ ሴት ታገኛለህ::
+\n\n7. መልክ:\n
+መልክ ሴቶችን ሊማርክ የሚችል ሌላ የተፈጥሮ ፀጋ ነው፡፡ ነገር ግን የወንዶች መልክ የሴቶቹ ውበት ወንዶችን ለመማረክ ያለውን ያህል ኃይል የለውም፡፡ ምክንያቱም ከላይ እንደተገለፀው ወንዶች የሚማረኩት በምናየው ነገር ሲሆን ሴቶች ግን በማየት ሳይሆን በስሜት ይማረካሉ፡፡ ስለሆነም አንድ ወንድ መልከ መልካም ስለሆነ ብቻ ሌቶችን ሙሉ በሙሉ ሊማርክ አይችልም፡፡ በመልኩ ተማርከው ከቀረቡት በኋላ ሌሎች ወሳኝ ብቃቶች ከሌሉት አቅራቢና ጠባቂ ካልሆነ ይጠሉታል፡፡ ከመልክ ጋር አስፈላጊ የሆኑት ብቃቶች ካሉት ግን መማረክ ብቻ ሳይሆን ሊያሳብዳቸው ይችላል፡፡
+\n\n8. ጤናማና ማራኪ አቋም:\n
+ዝና፣ሃብት፣መልክ፣ተጨዋችነት የመሳሰሉ ብቃቶች እያንዳንዳቸው ለሁሉም ሴቶች መቶ በመቶ ማራኪ ላይሆኑ ይችላሉ፡፡እስካሁን ካየናቸው የወንድ ልጅ ማራኪ ብቃቶች ሁሉ 99% የአለም ሴቶችን ልብ በማሸነፍ ቁጥር አንድ ደረጃ ላይ የተቀመጠው በራስ መተማመን ነው፡፡ አሁን ግን በራስ መተማመን ቁጥር አንድ ቦታውን ለጤናማና ማራኪ አቋም በመልቀቅ ቁጥር ሁለት ደርጃ እንዳይዝ ይገደዳል ምክንያቱም 100% የአለማችን ሴቶች ጤናማና በጥሩ አቋም ላይ የሚገኙ ወንድ ይወዳሉ፡፡ የአካል ብቃት እንቅስቃሴ የማድረግ ልምድ አዳብርና ጤናማና ማራኪ አቋም ያለህ ሰው ሁን፡፡
+\n\n9. አልፋ ወንድ:\n
+የአለም ሴቶች ህልም የወንዶች ወንድ የሆነውን አልፋ ወንድ ማግኘት ነው፡፡ አልፋ ወንድ ማን ነው? አልፋ ወንድ ከላይ የተዘረዘሩትን ብቃቶች በሙሉ አሊያም በብዛት የሚያሟላ ባለ ብዙ ብቃቶች ባለቤት የሆነ የወንድ ዓይነት ነው፡፡  ...
+\n\n እና ሌሎችም:\n
+ጥሩ የማድመጥ ችሎታ፣ ተግባቢነት፣ ለእንስሳት ደግ መሆን፣ ራስን መቻልና ነፃነት፣ የመሪነት ብቃት፣ የመወሰን ችሎታ፣ መልካም ስብዕና፣ ከሙዚቃ መሳሪያ እስከ የተነፈሰ ጎማ መቀየር ድረስ ያሉ የተለያዩ ችሎታዎች...ሴቶችን መማረክ የሚችሉ ብቃቶች ናቸው፡፡  "
+                android:textColor="#FFFFFF"
+                android:textSize="18sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textView4" />
+
+            <TextView
+                android:id="@+id/txt_head"
+                android:layout_width="381dp"
+                android:layout_height="49dp"
+                android:layout_marginStart="23dp"
+                android:layout_marginLeft="23dp"
+                android:layout_marginTop="19dp"
+                android:layout_marginEnd="32dp"
+                android:layout_marginRight="32dp"
+                android:background="@drawable/bgd"
+                android:text="	ሴቶችን የሚማረኩ የወንዶች ስብዕና"
+                android:textColor="#FFFFFF"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.36"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="379dp"
+                android:layout_height="494dp"
+                android:layout_marginStart="16dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginTop="100dp"
+                android:layout_marginEnd="14dp"
+                android:layout_marginRight="14dp"
+                android:background="@drawable/bgd"
+                android:gravity="start"
+                android:text="ማራኪነት ለሴቶች እና ለወንዶች የተለያዩ ናቸው
+                1. መማረክ ልክ እንደ ርሃብ፣ ድካም፣ ፍርሃት መሰረታዊ የሰው ልጅ ስሜት መሆኑን:: \n\n
+2. የመማረክ ስሜት አስበን የምንወስነውና የምንቀበለው ሳይሆን ከቁጥጥራችን ውጪ በሆነ ሁኔታ የምናስተናግደው ስሜት መሆኑን::
+አሁን ደግሞ ሌሎች ሁለት መሰሪታዊ የመማረክ ዕውቀቶችን እንመለክት፡ የመጀመሪያው ልናውቀው የሚገባ መሰረታዊ እውቀት… ሴቶችም ወንዶችም መርጠው የመውደድ መርጠው የማፍቀር መርጠው የመማረክ ችሎታ የላቸውም::
+ሁለቱም ፆታዎች የሚሰማቸው የመውደድ.. የማፍቀር….. የመማረክ ስሜት ከቁጥጥራቸው ውጪ ነው :: ሁለተኛው መሰረታዊ ዕውቀት... ሴቶች በወንዶች ለመማረክ» እና ወንዶች በሴቶች ለመማረክ የሚያስገድዷቸው ነገሮች የተለያዩ ናቸው፡፡ ሁለቱ ፆታዎች የመማረክን ስሜት ለማስተናገድ የሚገደዱ ቢሆንም ሴቶች በወንዶች ተማርhው እጅ እንዲሰጡ የሚያደርጓቸው የወንዶች ባህርይዎችና ብቃቶችı ወንዶች በሴቶች ተማርከው እንዲንበረከኩ ከሚያደርጋቸው የሴቶች ባህርይዎችና ብቃቶች ፍፁም የተለያዩ ናቸው:
+
+
+
+"
+                android:textColor="#FFFFFF"
+                android:textSize="18sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="379dp"
+                android:layout_height="66dp"
+                android:background="@drawable/btn_sed"
+                android:text="        ሴቶችን የሚማርኩ የወንድ ስብዕናዎችና \n                    ዋና ዋና ብቃቶች "
+                android:textColor="#FFFFFF"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="@+id/textView5"
+                app:layout_constraintStart_toStartOf="@+id/textView5"
+                app:layout_constraintTop_toBottomOf="@+id/textView5" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+    </LinearLayout>
+</ScrollView>
+

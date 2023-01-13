@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="Seduction.English.Eng_Six">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="1000dp"
+        android:background="@color/design_default_color_error"
+        android:orientation="vertical"
+        android:weightSum="11">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/txt_head"
+                android:layout_width="377dp"
+                android:layout_height="63dp"
+                android:layout_marginStart="23dp"
+                android:layout_marginLeft="23dp"
+                android:layout_marginTop="19dp"
+                android:layout_marginEnd="32dp"
+                android:layout_marginRight="32dp"
+                android:background="@drawable/bgd"
+                android:text="10 Signs that She will Show You if She have Interest on you"
+                android:textColor="#FFFFFF"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.36"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="match_parent"
+                android:layout_height="2500dp"
+                android:layout_marginStart="16dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginTop="100dp"
+                android:layout_marginEnd="14dp"
+                android:layout_marginRight="14dp"
+                android:background="@drawable/bgd"
+                android:gravity="center_horizontal|start"
+                android:text="Next From the list Of action Of speech Symptoms In between Half Above What will happen If you notice The girl Interest She has to say it is The signs one In one Let's see ....
+                \n\n1. Hair wraps up
+                \nplaying with hair to  Next to you He sat down let it be In the distance You She is watching Hair Wrapping if so Her desire She explains it is . Hair N What a relief it becomes Eat For you Message To transmit But not Inside Has Desire and Emotion Without her knowing Like that To do Because it forces her it is .
+                \n\n2. Lips Bite
+                \nlips Absorption  Lips Absorption Lips Bite Women Without knowing them They perform other Interest Emotional Sign it is . This Sign Yours Focus To her lips To attract Kissing Interest As she says To express Transmitted Sign it is .
+                \n\n3. Physically Approach
+                \none On face to face Sit down Where you talk Time To you More You incline if so The other on demand Display Suspect Sign it is . Her hands Combine to the Later To drink When you say Interest Absence As it turns out All Her hands Height Solve Relax Eat To you If she is close Also From you With Physically Intimacy Embracing Interest As she says Showing it is .
+                \n\n4. Unexpected Transparency
+                \nPeople Their secret What they say so true For those who are offered For those who love Man it is . Secret Sharing Proximity Measurement Done Will be taken . And Secret Even If not Christmas Well Without getting close Her own Of her family Stories If she talks to you From you With She has Intimacy Interest Showing one Sign it is .
+                \n\n5. Reapting What You Did
+                \nWomen Without knowing them From what they do Things In between One is called Mirroring Sign it is . One Female Hey you What you do Activity You do if so Interest  As she says Showing it is . for example one On Food While you are eating While Yours Activity She is following Hey you When you lift Lifting When you eat She sighed as well as Others Activities You She is following You repeat if so Without knowing it Her desire She explains This is Sign And at a distance To be seen Can .
+                \n\n6. Neck Breaking
+                \nSmile  Female Son Smile By itself Transmits Good news it has . In particular Neck Breaking And Smile Total Provided Result But my heart As you like Understand me Says sort of it is . And from a distance let it be Close Her neck Breaking Do it Smile From which she added .... well Happy do you have?
+                \n\n7. Eye Game
+                \nWomen They want to it becomes They do not want to to show To use Their weapon ..... their nuclear Their eyes It is . If you want Repeat When they see you You catch them  If you do not want to But Never I will not see you You can . Female Son If she wants you Her eyes Exactly Of power Generator As used Development Nuclear will be . in order to Repeatedly When you see Eye For the eye If you are in conflict Well The message Reach out to you .
+                \n\n8. She asks you
+                \nInterest When she has More You Of knowledge Of knowledge The owl When she sleeps In different ways Questions She will hurry you . From your childhood From The existing Your story To hear She wants it . When you talk to her Eagerly She listens to you   Collection : nothing else Congratulations You Of knowledge Interest Even if she does You ask Question on the whole In return to know Whatever she wanted All At once Don't let her know . At once If she knew other Time You Of obtaining Her interest To reduce Can . '' The rest But other Time You say Shorten it .
+                \n\n9.She will touch you She will hit you
+                \nIn the game In the middle By hand Your hand Your shoulders Your back If you touch it Without her knowing Interest As she says She is telling you it is . Still In a game In the middle Hey you By sort of Tap What you do if so .... if we touch More If we get closer If we hug Happy i am Says Hidden Message Passed to you it is .
+                \n\n10. She will crucify you
+                \nTo your friends Tell you what Who did not laugh Joke When you tell her From Eat If she laughs , '' Here it is My joke &quot; It 's ridiculous .&quot; Do not boast From Eat She laughed Your joke Funny However But not Because she loves you Because you want it it is . because of Women Their interest To show Way One Laugh it is . If they love you You tell them Joke Even if he does not laugh They will laugh at you .   "
+                android:textColor="#FFFFFF"
+                android:textSize="18sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+    </LinearLayout>
+</ScrollView>
+

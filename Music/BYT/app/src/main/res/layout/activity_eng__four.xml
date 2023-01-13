@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="Seduction.English.Eng_Four">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="1000dp"
+        android:background="@color/design_default_color_error"
+        android:orientation="vertical"
+        android:weightSum="11">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/txt_head"
+                android:layout_width="381dp"
+                android:layout_height="49dp"
+                android:layout_marginStart="23dp"
+                android:layout_marginLeft="23dp"
+                android:layout_marginTop="19dp"
+                android:layout_marginEnd="32dp"
+                android:layout_marginRight="32dp"
+                android:background="@drawable/bgd"
+                android:text="                       Dating"
+                android:textColor="#FFFFFF"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.36"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="match_parent"
+                android:layout_height="1100dp"
+                android:layout_marginStart="16dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginTop="100dp"
+                android:layout_marginEnd="14dp"
+                android:layout_marginRight="14dp"
+                android:background="@drawable/bgd"
+                android:gravity="center_horizontal|start"
+                android:text="Her phone To you Son Next Day “ Yesterday Because I found you Happy He told me . By the way On During the week dead end Together Tea Let us drink Your will If so Happy He tells me . Anyway &quot; Write to me . &quot; Message If you write to her nothing else If you do not respond two Days Keep in mind that “ easily Not available sort of Game You are playing It is . so true Arada You are . &quot; Message Contains Email Sending You are required . Here's for sure Her answer keep out You can . Who will send you Message Covered Appearance Has That it will Wait . Then Then Hey you When Call me it is Where are you from ? ” Your request You raise . Here it is Things All Simplified to say It is . because of You exchanged them Messages You As a friend To think of you They do it. in order to To a friend Also Requested Where you forbid Persuasive Reason She will not have it.  By calling her Time a little bit : “ Oh Bye Anyway I am working I am Work He said . Finish I have to . The latest Your plan What Is it why? tomorrow ten Time On We met Tea Coffee Do you read ? What Caffeine You know it Isn't it ? If we agree Lunch We'll get involved . First Tea Coffee We say . Physically When I see you Debar If you are He also said: “ Urgently at home I entered My dog Feeding I have to say I left you &quot; I'm leaving ,&quot; she said left He deserves it She laughs . From laughing Alpha : “ This Man Testing me it is &quot; _ _ Emotion To make her sleep You do . Then I said, “I told you Cafe OK : Where I work Place Much Not far away . In fact Door On You came Call me . ” Before it becomes Delay If you come you From waiting You will be saved . and then You are not coming Where you can Opportunity he said What ? ” Your request Follow It is . Then The next Answer Listen and say : “ Why You look like I I do not like Thing If so Appointment Respectfully Absence It is . Appointment For disrespectful Man nothing else sort of Sorry I do not . I on time I am here If I say so on time it is I am . Our relationship Before it started To be terminated To do Able one Thing If so You're late Your arrival Probably . Anyway If you are late Do not come . ” This By appointment If you are joking What As follows Obviously He saves her . "
+                android:textColor="#FFFFFF"
+                android:textSize="18sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="379dp"
+                android:layout_height="79dp"
+                android:layout_marginStart="21dp"
+                android:layout_marginLeft="21dp"
+                android:layout_marginTop="12dp"
+                android:layout_marginEnd="11dp"
+                android:layout_marginRight="11dp"
+                android:text="What Womans Think on First Date"
+                android:textColor="#FFF"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textView5" />
+
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="380dp"
+                android:layout_height="650dp"
+                android:layout_marginStart="21dp"
+                android:layout_marginLeft="21dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/bgd"
+                android:text="Women Paired Male For a long time Relationship for Or Temporarily Emotion They say they pay for it. in order to Of the two From which As you classify To choose Yours Responsibility Probably . Both Type Relationships Their own Anyway Introduction Profile Roads They have . The first and For a long time Relationship Fits Called Classified sort of Man Christmas At first Appointment Above On top of that Inviting, whatever you want Goods As you wish Buys her, to Elected Entertainment Places Hold it Going , just As a queen Takes care of her However By the way Time It is . Like this The type Male For a long time along with To be Worth it That Think about it to the Sex Relationship To go That she should not She decides . Therefore it is In the long run Relationship Name If you approach her Sexy-meat Key to get Heavy It will happen . In another Through But the first Your appointment On Much You don't want her sort of Emotion Hold on If she sees you Thing But To leave you Also Hard sort of Man You are If you find it To look at you Your favorite Directly Sexually Eye Probably . because of For a long time Relationship no way Says Emotion If she feels You Without reconciling you To keep it You can Way Sex That She thinks . "
+                android:textColor="#FFF"
+                android:textSize="18sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textView8" />
+
+            <TextView
+                android:id="@+id/textView11"
+                android:layout_width="380dp"
+                android:layout_height="70dp"
+                android:layout_marginStart="21dp"
+                android:layout_marginLeft="21dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginRight="10dp"
+                android:text="What You Should Have to Do at First Date"
+                android:textColor="#FFF"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textView9" />
+
+            <TextView
+                android:id="@+id/textView12"
+                android:layout_width="380dp"
+                android:layout_height="2400dp"
+                android:layout_marginStart="21dp"
+                android:layout_marginLeft="21dp"
+                android:layout_marginTop="23dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/bgd"
+                android:text="Next Which will By appointment Time Met to play Probably .  Here On Hey you To play it Worthy one Role He said . You got it a little bit As you said By meeting Happy He told me . The other If not at least Clean Friends &quot; We will be . &quot; You start . and then In every game Middle &quot; Happy You say Friend To be me could you to say Is &quot; and For you To my sister Not And &quot; kind Ideas In each case Introducing you You will continue . Like this You say Also For no reason not at all This Seem Sentences When you hear The girl The first To be Can This Also In turn , “ what If I miss you it is In love Left In turn Friendship As he wants me What did he tell me ? Internal Inside In thought Meditation It shortens . Then Time From Hey you Attention To give it to her To do Let day She struggles .  Together Tea at home In Where you stay Times By no means Type Condition Of desirability Emotion To reflect You do not understand . You talk to them Stories Smile They make sense As Hey you But From one Your friend With As you relax sort of Condition To create be able to You have to Her body From touching Beware Palm _ Reading _ Hand Massage And Such as Your skills For later They will benefit you Save's from touching You save In another Through Later On For what you get Of the body Response Strength It will help you . The girl Appearance Well Called sort of She became h Also Her beauty From exaggeration Yourself Ambush . Instead Defective What you say Her room You want it Much To your friend As it were  sort of Someone said, “ By the way Much Misleading No. _ Shame on you No , ”he said . Every now and then Then Related to something Jokes You are creating Get rid of it . By your appointment day From the girl With Tea Coffee From communication Jump along with What you want if so Goods To where they sell Places Stay Where you go Opportunity Think about it. Hold her To go You can Places Funny Or Surprising Of goods Types Where they sell Places Be it. for example For Doll Where to sell Shop Hold her If you enter With a doll When you laugh Your stay Well Time Pass it on broke up You can . You see ! To enjoy all the time Money take out Obligation No. _ First Appointment Interview No. _ at first Appointment Any Male To know him Worthy Thing This It is . Of work Application To enter Or Employee To hire not at all to the First Appointment Where are you going ? in order to For words Questionnaire Presented Man You pretend Stop .       Tea at home In Sit down You say For the first time Appointment Connected Many Pairs When they talk You heard You know if so Being said Has Thing You understand . The men over and over The following Questions To present They are jealous . “ Here Location it is You were born Did you grow up ? ” “ Where it is What are you learning ? ” “ Sisters and Brothers Are you there ? ” “ Profit Your time What To do Are you okay ? ” These Such as Questions Boring They are . In Care Of Education , work , family And Such as Rumors pick up You have to Rumor has it Thing When you run out Only to become It must . on top Mentioned Error Men over and over Where they work Reason Family Lovers , good Work Who have Stable Life Led That they are To inform With Interest It is . Normally Like this It looks like If approached nice Dinner If you invite her as well as They are old and Take it easy Techniques Using at least The girl Kissing Luck It happens to me They say They think . However This Approach By no means The appearance Effective It does not 's recurring no one Male To talk about it Who can Gossip Women It does not bother them . Them To attract In mockery Filled and Beauty Where Game You need it. Game Sweetness why As you can to learn You must . Boring Topics Remove it About another Exciting Thing Talk be able to You are required .  in case Normal Type Gossip Talk If you have to Congratulations The following Try them out .
+                \n\n1. Story ፡ Women _ History To hear He delights in them . In particular Also About places History , Index , City why? over here Place On As it were Such as If you talk to her better than You make her happy .
+                \n\n2. Special Because they Luxury so so Things By talking To give her You can . About fashion some Things Picking you up Play it . City In Dressing Because they Clothes Picking you up Talk to her .
+                \n\n3. Funny Psychological Comments By others People On give away Practice . “ I I mean Car Accident The most Many Drivers Of the modern Singers I killed you I drove you crazy Songs Listening Because they drive it is Isn't it ? &quot; And Such as Rumors Picking you up Your stay Boring From being Save him . Her desire Meet If you want Interesting You are Stay You must . This In one day In What you bring Change No. _ For some Days To practice You must . By mistake Street Long Distance If you go Congratulations give back As you should Don't forget . The right one Approach To learn and To practice You must  "
+                android:textColor="#FFF"
+                android:textSize="18sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textView11" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+    </LinearLayout>
+</ScrollView>
+

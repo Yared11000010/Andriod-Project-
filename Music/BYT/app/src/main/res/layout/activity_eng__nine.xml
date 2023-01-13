@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="Seduction.English.Eng_Nine">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="1000dp"
+        android:background="@color/design_default_color_error"
+        android:orientation="vertical"
+        android:weightSum="11">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/txt_head"
+                android:layout_width="381dp"
+                android:layout_height="49dp"
+                android:layout_marginStart="23dp"
+                android:layout_marginLeft="23dp"
+                android:layout_marginTop="19dp"
+                android:layout_marginEnd="32dp"
+                android:layout_marginRight="32dp"
+                android:background="@drawable/bgd"
+                android:text="Self Improvement Techniques"
+                android:textColor="#FFFFFF"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.36"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="match_parent"
+                android:layout_height="3700dp"
+                android:layout_marginStart="16dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginTop="100dp"
+                android:layout_marginEnd="14dp"
+                android:layout_marginRight="14dp"
+                android:background="@drawable/bgd"
+                android:gravity="center_horizontal|start"
+                android:text="Women Of course Wealth , fame , and Authority Will he defeat them ? Day From the day What we see Perception If we can Women By a man Son Wealth , fame , power Or Education Stage When captivated We understand . This Also They do due to It is . Naturally They got it Around them The learned Thing As I explained to them These People From others More Brave : Heroes and More Essentials They are . From nothing Above But What you want sort of Of living Stage To pinch them You can These Boys That they are They understand . Robert Kialdini Called Art Psychology In Scholar Influence Their book When you explain Naturally Good looking Powerful People From others In knowledge The more Faith To be discarded Done As they are taken They speak
+                \n\n-> Women By wealth In appearance and In appearance They are attracted
+                \n Thing But Most of all Above Meaning And For love Basis They will To create them You can Emotion It is . in order to Hey you Of the mentioned One If you do not live Congratulations What you want sort of Emotion If you created it Appropriate Masculinity Cover If you give it to her Undoubtedly From anyone Above Whatever you choose You Probably . Any Female Inside Joy To feel it Do it To Also Of the following Questions Start _
+                \n-> I walked What sort of To be worth it ?
+                \n-> My speech Reason What Appearance Holding  ?
+                \n-> In front of me Lys What sort of Emotion Reflect Must  ?
+                \n-> How From others Special I said The women All Required sort of Male To be I can ?
+                \n\n Beautiful Women Weak Side
+                \n Most beautiful Women one Weak Side He said . And he With them For  Male Himself , circumstances as well as Her Controlled To be Firmly To search Obsession It is . Many Men Also Appearance Well Anyway Female If I do not bow down to her Leave me alone She is leaving Says Fear They must . In contrast Women Squeaking Male Not wanting to Men When they change Their age They push . Who ordered them All For those who do Men In fact Contempt They spend the night . This To prove Women To their friends , “ Things To buy me Which I use Son It is . My toy &quot; … Etc. &quot; _ When they speak Listening Enough Probably .      Men a lot of Time The woman said, &quot; She is angry &quot; She 's gone .&quot; Fear As a result They tease them . facts But Quarrel Abandon  to say The woman Worse To flee It does . The solution Practicing it becomes other  no one Male Which he does Thing To do Stop It is . Special Be . From a woman With When you talk  From your friend Or From your brother  With As you say Do (“ This I do my friend By being For yourself I said Is . ” From your friend With When you wake up Which you use Sound Use ). &quot; &quot;; Her concerns Picking you up Put it on . Others For a woman Squealing Men Hold &quot; Mood &quot; while lifting .
+                \n\nStats From what they practice Rich Men as well as so true beautiful And men With Their feelings To satisfy They sleep . Thing But  Most of all Above  Himself Waiting : Costs To cover Enough Money Working , anxious , straightforward, challenging , by itself Confident , funny Always Tempting and  hardly ever Unsatisfactory Male From anywhere Male More By a woman To the wanted It is . From the difference Beyond that The test For women Exciting It is . And so sort of Male The body Only But not The desire and His mind Defeat . Said Thing If you do not agree Many Women  To where they are  Location Domain Let's eat For some Beautiful Read it The truth Check it out .     nothing else Meaning If it is not given to you  Congratulations  Women They do it becomes What they say Each Thing Behind him nice Purpose He said . Drama a lot of Time  Attention to get To use It is . Jealousy Their relationship Preservation  Their way It is . Test The man Honestly That For their relationship Sacrifice To pay Volunteer That To prove It is . in order to From a woman Gara Successful to become When you work Things From yourself Gara Do not attach them . Drama , Challenge and You do not understand Things If you encounter it hope Do not cut . This All Game Class It is .
+                \n\n\nSelf Improvement Roads
+                \n\nYour teeth  He finished them  Chaotic If so To worry You do not understand . because of nice Dressed Load He said From exit They will not stop you . Instead Your teeth  Always From garbage Clean That they are Check it out . Bad Oral The smell If you have Remove it .
+                \n\nFor your hair Appropriate Attention Give it to him. Your hair Your beard Appropriately Way  To fix Do (with this Case  Probably  which one Hair  Determined Agrees To find out For a professional Opportunity Appropriate Probably . ) Armpit Hair  Desirability Less It is .
+                \n\nThose who do not agree with you Clothes You choose Buy . ( Many Money don't have  Do not say . for example Hunter Flower Web and Mag Fafrika Product  Shop Reasonably Price nice nice Clothes You will find . Easy Price Load What you say Full Clothing to get You can .) What you wear Clothes All Time Clean _ And Eye Interesting Be it. Dirty Clothes Dressed go to Indifference  Officially As I declare Counts .
+                \n\nYour shoes Clean That Check it out . Your socks Clean Be it. Shoes Smell From bad Things Domain As assigned Know . Hey For a moment Inspired From one beautiful Female What That appeals to you Note . Her eyes, her hair , her dress , her walk Another . These All Things  Then Your attention Lose it in line Because they were arrested Caution Because they were made But Ignorance  If they are added If only  Your Eyes Dizziness Their capacity Less It will be It was . In dress Or In your walk Only Of man Attention To buy You can not Probably . Thing But Female Do not approach Those who block you Certain Obstacles They will ease you . External Your appearance Because of the chaos Only Of love Killer You will not to say No. _ &quot; Sometimes By Waldba We sing It is said No. _   \
+                \n\nBeautifully Son On Interest If you have  Above What we say Things To do Change As it brings Right now If you understand It's better . Per week seven day Gymnasium go to You do not have to. But at least Your body  nice Position To have Do it. Struggle Without Teeth  To have You do not have to . Thing But Your teeth Clean and  Oral You smell  Well If so Check it out .
+                \n\nThey love you Your shoes Which That they are why Great  That they are As you keep them Learn .   Yourself  From improvement  For a moment If so Do not forget . One Bent Hair  Straightening If so Congratulations Externally Your appearance On Change To bring Power She said.   The following Details  Easily Change  To bring  You can For they are Use them. 	Your teeth Your beauty Profile  Because Damaged Teeth  If you have Adjust , tongue Garbage Broom Use , dental Soap So. _ 	Hand and Foot Your nails  on the whole Fence it Trimmed Goodbye ! 	Of the nose Of the ear Hairs They are not necessary Highlight It is . Get rid of them ! 	 Your body When you wash at least three Time Relax, body Smell Mixed It will not be released . 	Well Fragrance Has Deodorant Or Male Perfume Use . 	feet , your shoes , Your socks  Very Clean Goodbye ! Note : Pages: Women Each one Thing Attention Give it  You will notice : More Organized Dress If you had No.  Better Of life Idiom As you say However They feel it .    "
+                android:textColor="#FFFFFF"
+                android:textSize="18sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+    </LinearLayout>
+</ScrollView>
+

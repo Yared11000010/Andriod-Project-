@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="Seduction.English.Eng_Two">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="1000dp"
+        android:background="@color/design_default_color_error"
+        android:orientation="vertical"
+        android:weightSum="11">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/txt_head"
+                android:layout_width="381dp"
+                android:layout_height="49dp"
+                android:layout_marginStart="23dp"
+                android:layout_marginLeft="23dp"
+                android:layout_marginTop="19dp"
+                android:layout_marginEnd="32dp"
+                android:layout_marginRight="32dp"
+                android:background="@drawable/bgd"
+                android:text="                 Facing Your Fear "
+                android:textColor="#FFFFFF"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.36"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="match_parent"
+                android:layout_height="3300dp"
+                android:layout_marginStart="16dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginTop="100dp"
+                android:layout_marginEnd="14dp"
+                android:layout_marginRight="14dp"
+                android:background="@drawable/bgd"
+                android:gravity="center_horizontal|start"
+                android:text="What is you are Scared with?
+                \nPeople The ones you love Man Approached By speaking Captivated . Love it By getting married nice Of love Of joy Life From living Instead The ones you don't like Man On They fell Love and Happiness Wireless Life To push Which makes them Thing Refuse My name is Says Fear It is .
+                \n\n1. Life is not Easy
+                \nin Life On What you want Thing All You will not receive it. What you want Thing All As you planned As you can imagine No 's what you requested Thing on the whole Whatever you want The appearance He will not answer you . The other Even Hello You said Man on the whole how are you Don't tell you He can . Thing But I wish I did not find ... what I wanted Failed I asked All I was not returned You say That you exist You will not give up your desires To achieve this , you need to to meet You call 's life To be continued ፡ · · Sales Cells working _ _ _ People Think about it ... stuff Or at home Or Stock To market a lot of People They say : Day Full Hundred Phone Call him Neither They fail Can's a lot People Phone They will not lift up , nor will they lift up right now Work On i am Talk i can't If you listen to them Later To buy Interest I do not have , they say They encounter something's something But hope Cut it The work They do not release : Instead Speech Their metaphor Upgrade it Next day to try They plan . over and over By trying one day Large Stock at home Or Car By marketing Of their fatigue Price You will receive . Any Thing Over and over again To try Qualified It does . in order to Women Found Opportunity Introduction and To talk Introduction and To speak Your abilities It develops you; One Female To speak When you get up Hundred Percent with pleasure Accept Phone Her number She gives it to me You say Do not wait . Hundred Percent Wait When you go As you can imagine But not When left out To upset you He can . Small Estimate Hold on You approached her The result As you wish ought to a lot of Sorry He will not tell you . You tried : Failed .
+                \n\n2. If you Tried You Will Achieve
+                \ncourage Attractive it is  - In the world On Existing Achievements on the whole Experimental Results They are 's success Soul Sown Their hands Combine it To the seated People It does not go . Success Flattened They do it Who are trying People They are . two Lovers Hand For hand Attached As they go If you see For that Finished them Of one Experiment ... Of one Courage It’s fall - ' Refuse If you tell me Camille Fear You are free Boldly One Female When you talk to her Phone Her number If you do not give Congratulations Your courage Appreciation Probably _ Or other Time When you find her better than Interest She will show you Or Your courage To her friends Tell me Promote She will do it for you because Courage By itself Of women Emotion Attractive:
+                \n\n3. The world on the whole His face It will not turn you away
+                \nOne ... two ... three Women refused you.  Because they did not speak to you Or Their phone Because they did not give it to you Anxiety You do not have to a few Women Face Because they did not give it to you the world on the whole His face As you turn Type Emotion To hear you No 's the result nothing else let it be What From your friends Middle Hey you You are isolated Boldly Women By your words Only From your friends Better You 's your friends too By you Courage They are jealous .
+                \n\n4. Your refusal is not a big News
+                \nLoved her Female From her house When you go out Wait To talk to her You tried it You are closed Because she passed Or Way On One Happy You ate Stop it Her phone You asked her Refuse Because you Reporter: Newspaper On News However It does not come out in order to such as Large Case You're crazy Don't look at it : instead Courage If you talk to her Age Exactly Happiness and Love She is giving you Where you live Your husband To be She can .
+                \n\n5. 10% male and 90% female Where they are the world In To enter Do you want
+                \nFear and Shy As a result ninety Percent (90%) of the world Men Happy The ones you love Women Approached From speaking Instead Their hands Combine them , their mouths Close Their luck keep out You choose . Unfortunate However ninety Percent (90%) of the world Women Also Men Approached Let them talk Sit down They say Their nails Color Painting They are waiting . Then Think about it Of our world ninety Percent (90%) of women Sit down They say Men Until you speak to them Ninety _ 90% of the world's population Men Also In fear Shyly Wrapped up From the brave ten Percent (10%) of women One To reach them They growl. In contrast Also Women Of speaking Courage Who have ten Percent (10%) of the world Men Of the women the world As you wish They explode . Man in order to The choice Yours Is …. From our world ninety Percent (90%) of men With Join From the brave ten Percent (10%) of women One To reach you She was exhausted Of hope Rope On Hang on Waiting Or Women Of speaking Courage Who have ten Percent (10%) of the world Men With Join Men Let them talk From what you expect Of our world ninety Percent (90%) of women Middle your favorite … .. What you become You choose Your personal To do Your choice ten Percent (10% ) Of our world Brave Men In To enter If so I have no doubt . Thing But Guess As you can see over there In To enter so true Easy If so If only all of them Male one On It will be It was . ten Percent (10%) brave Men By a woman Love Their world To the point of execution Female the world To enter Of women Behavior and Nature Well To know and From them With What you have Relationship to improve Required . The women you do not like By contacting Including For women What you have Presentation and To speak Qualifications Upgrade.
+                \n\n6. Eggs Without breaking Eggs Fragment to make It is not possible
+                \nEggs Fragmentation Eggs Thirty Including Different from Eggs Who work Breakfast Types Most of our world People Breakfast Choices They are. Delicious Eggs Fragment or Eggs Six to work But Beautiful ... beautiful Chicks To be Who can Eggs Breaking Asks. - Beautiful Lover To find Your heart To be broken Opportunities - to exist You can . Therefore, ' refuse If you tell me My feelings It hurts my heart It will be broken Game The field In Login . Lucky If you are Your heart Without breaking Your lover To find her You can . Lucky If not Your heart Breaking Condition If so such as brand new Fix it Of the heart Your friend Search You will continue . "
+                android:textColor="#FFFFFF"
+                android:textSize="18sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+    </LinearLayout>
+</ScrollView>
+

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="Seduction.English.Eng_Three">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="1000dp"
+        android:background="@color/design_default_color_error"
+        android:orientation="vertical"
+        android:weightSum="11">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/txt_head"
+                android:layout_width="381dp"
+                android:layout_height="49dp"
+                android:layout_marginStart="23dp"
+                android:layout_marginLeft="23dp"
+                android:layout_marginTop="19dp"
+                android:layout_marginEnd="32dp"
+                android:layout_marginRight="32dp"
+                android:background="@drawable/bgd"
+                android:text="             Removing Shyness"
+                android:textColor="#FFFFFF"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.36"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="match_parent"
+                android:layout_height="3500dp"
+                android:layout_marginStart="16dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginTop="100dp"
+                android:layout_marginEnd="14dp"
+                android:layout_marginRight="14dp"
+                android:background="@drawable/bgd"
+                android:gravity="center_horizontal|start"
+                android:text="in love The relationship _ the world Men What you want The ones you love Women Talk to him , Appropriately Do not marry Obstacle t From where they are Things One Shyness It is . Shy Men in love on their knees Women Approached Introduction Problem About their experience a lot of Time Fate Instead Easy Effort Available Women Married Love a Heart Life To live Maybe Fate Instead the same Not to be outdone They will deliver you Critical Points ....
+                \n\n1. Practice In others Name
+                \nFor shyness The biggest Reason Which will Refuse She could Say NoIs : this Fear To avoid It will help you To my friend He loves you By Different Women You are approaching By contacting To b . _ &quot; To my friend . &quot; Reason That Humiliation It looks like What scares you Women's Refusal Because it removes you Relax You say From different Women With Of intimacy To communicate Experience To develop It will make you . in order to the opportunity If you find it No. Women You are approaching my friend so true For, he loves you Phone Your number I received by giving Surprise Let me do it I want to Type Method Women Boldly Approached To speak Wisdom Practice If they say no for you but not to your friend so nothing else Scary …. Embarrassing Thing It will not be . In this Way Women As you can imagine Scary That they are not You realize.
+                \n\n2. Step by Step.
+                \nYour shyness At once Shake it off To throw To bother you Can Step ... step by step Slowly … ... Slowly From the campaign But Unbeknownst to you Shyness Take it off You throw it away . With a smile Get started . For the women Great Smile Showing To approach You have You are Notify. Next Hi! You say Short ___ but Critical Communication Bridge Anyway The word To use Experience Develop . Smile Hi! Simplified For those who are People Opening Work They perform . From the beautiful Women With a smile Hi there Help Gossip To begin with What scares you .. It's hard for you if so Much From those who do not fear you so true beautiful If not Women With Get started . Slowly Beauty The peak ☞ If so Women With Communication Where you can Stage You will arrive .
+                \n\n3. Womens are People
+                \nThe fear Shame on you Which depends Women To approach When you think For yourself From what you tell them Wrong | Estimates it is Refuse She tells me ... in pepper Slap She yells at me Man Face Blasphemy She humiliates me Who say Type Messages When it started Women With When you approach such as Man But such as Sex Target Do not think of them . So When you think Are you upset ? Women Then Beyond that Exactly Like you Family Life Tendency they have . That to say However _ Annoyed Nervous _ _ By not ) many Title: Issues Around To talk to them you can to say It is . Next Women Hey You on Interest If they do not Congratulations You are captivated Because they were presented Only Happy, they are Therefore Presentation _ _ Politeness Filled If so Until as you can imagine Which humiliates you Thing No: _
+                \n\n4 . Do not overdo it
+                \nWomen When you approach Anyway Thing To achieve ( telephone No. To receive ) if Your focus All over there On Because it will Your game For that To lose He can . in order to For the last Result Without worry Shut up You say The existing Condition You follow Relax You say Play it. Yourself You are Freely You play By itself Captivating Power He said . Hey you Christmas Phone No. to get Only Floating if so You are upset The women To frighten them Can you Relax You say When you play But Worm Phone Let's change As it turns out You can :
+                \n\n5. Do not give Attention For people Comments and Criticism
+                \nFor people So If they tell me ... the women Mood What if they caught me … Thoughts Place Don't give up , People they are Busy by Living Their own life. About you Small Activities and Actions Watching Comments and Criticism To give Time Has No. _ If so Congratulations To be proud of But To be ashamed of No because of People a lot of Things to the Side do it About you Talking if so Hey you Attention Attractive By people Life In Place the one you want Envy Thing You have Man You are to say It is.
+                \n\n6 Listener Is required
+                \nThis one Point For the shy Men Well News She is a lot of Time Shy Men They are afraid Women Approached To speak It is . a lot of Women Also Wish From gossip Instead Who listens Male It is . in order to nice Listener By being Only Of women Attention Captivating It is possible . nice Question You ask You are comfortable Listen . Your request If he returns Later Also other Question As a result . In this Way Only By Women To the wanted to become You can.
+                \n\n7. Without choice Come on ... talk
+                \n all of them Thing Experience Needs Easily Women With Approached Game get started Who can Your friends For a minute For In your conscience Answer: You say Evaluate them . Those Your friends From women With · Not only If you find it Man With Approached Game To begin with Ability and Qualifications They have From a child , From a large . From a man , From a woman . From a student , From staff … host , From Teacher … Class In , Lift … Taxi in In , Bus In ... way On , Plane On ... anyway Place From any Man With Game To begin with Ability Develop Anywhere Location From any Man With To play Ability If you have From women With Talking And courage Will you
+                \n\n8. Do not be afraid
+                \nBoxers To scratch to the Ring When you enter To win To lose Luck As it were By believing It is . Life 100 percent _ Called Thing No. _ You too One Woman You are close When you speak The girl Interest To have She does not have it Can Says Estimate Hold on to become It must . over here On But to the Ring Enter Boxers and to the War Threshing floor Enter Soldiers Think of them From the body Lack up to Life Loss To experience them &quot; You can But nothing else Type Physical Injury You will not meet Interest If she has She talks to you ( phone No. She gives you ) interest From another Also You are closed She is leaving . no more in order to Do not be afraid Woman Son To speak When you think To be created Who can Small Things By magnification Glasses You are watching Yourself Don't worry . Your attention By what you say Female Beauty and For that On Do it.
+                \n\n9.Women Wherever you go Place It happened
+                \nShyness Where it comes from One Way From people By connecting Different Social Lives On Not participating Yes . _ in order to Women Where they usually such as Jim , Education Home ! Of good Permission Circles and Associations By participating From the nights With Close To communicate Your experience Develop In this way Type Places _ from different Women With Of intimacy Talking Your abilities If you improve From many Women Middle Unlike Condition What appeals to you Female To speak oh no It will no "
+                android:textColor="#FFFFFF"
+                android:textSize="18sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+    </LinearLayout>
+</ScrollView>
+

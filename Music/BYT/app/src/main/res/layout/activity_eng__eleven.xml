@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="Seduction.English.Eng_Eleven">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="1000dp"
+        android:background="@color/design_default_color_error"
+        android:orientation="vertical"
+        android:weightSum="11">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/txt_head"
+                android:layout_width="385dp"
+                android:layout_height="66dp"
+                android:layout_marginStart="23dp"
+                android:layout_marginLeft="23dp"
+                android:layout_marginTop="19dp"
+                android:layout_marginEnd="32dp"
+                android:layout_marginRight="32dp"
+                android:background="@drawable/bgd"
+                android:text="The skills that make women pursue you in love"
+                android:textColor="#FFFFFF"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.36"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="match_parent"
+                android:layout_height="3300dp"
+                android:layout_marginStart="16dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginTop="100dp"
+                android:layout_marginEnd="14dp"
+                android:layout_marginRight="14dp"
+                android:background="@drawable/bgd"
+                android:gravity="center_horizontal|start"
+                android:text="The common denominator of men is the pursuit of women. This is a strategy we often use to meet and attract women. The effect of chasing a woman out of work or at home or trying to attract attention by chatting on Facebook may not always be good. Persecution can awaken. Persecution can kill a woman. On the contrary, getting the woman to chase after you is a good thing. Make it your treasure by reading the following wisdom.
+                \n\n 1፡ Be a magnet
+                \nMany men are attracted to beautiful women. Some of them lose their jobs and become violent. Some of them dragged me along like a magnet, and I clung to her. Stiffness, cramps, and cramps are not the only things that attract women's attention. Rather, they are the characteristics of weak men who kill women. So at this point you must be a magnet, not a magnet. When all men are confused and confused, the more you relax, the more you attract women's attention. Why is he so entertaining? You ask a question. Women come to you for answers.
+                \n\n 2፡ Don't pay too much attention
+                \nWomen are attracted to a man who is more attractive than they are. If you are a happy person in your own life and in the world around you, and she is a happy person, then women who want to live in your world will persecute you.
+                \n\n 3: Know what is being asked
+                \nMake excuses for what you do and what you say when you meet a woman. Because the first thing that happens to women is what you said and did when you first met them. If you meet them, they will record something great for you. If you meet them, you will remember that you are weak. So when you meet a woman you have to say, 'What do you want me to do for you?' Do you have a walrus ......
+                \nNever ask questions that indicate that you have high expectations and low self-esteem. Believe in yourself, not as a magnet, but as a magnet.
+                \n\n4 Be a diamond rather than a stone\n
+-Diamonds and gold are stone seeds, but they are easily... They are nowhere to be found and they have become very expensive and decorated. But wherever a stone is... He could not get as much glory as gold and diamonds because he was readily available.
+If you don't always lose sight of the woman you're looking for, she doesn't have any special dignity and desire for you, but if you're as rare as a diamond, they all make you their own... Nostalgia sows love in the heart. If you are nostalgical (occasionally calling), you will want more, for no good reason that the gold they hold in hand is considered copper.
+\n\n5; avoid excessive appreciation \n
+- True, women love admiration, but their eager to hear admiration rather than hear it makes them attractive by raising their emotions and lowering them.  Therefore, do not praise them with appreciation for what is not.  Do not bluddled them with various gifts.
+ Instead of focusing on their beauty, as many men do, their knowledge, work and personality-focused admiration will make it more enjoyable for a woman to throw a game away from my dream that she's grieving. If she follows a distinctive and saved fan style, she will be more interested in hearing.
+ \n\n6 Make Them Think about You\n
+ - If you want women to chase you, you have to make them think about you first.  Instead of making many of us think about it, many of us are drawn into thinking.  Let the thought of them be enough to make him fall apart, and now you change the story.  If you apply the point correctly above, you will begin to attract women as a magnet.  And some women ask you questions like let's go to a cinema for tea because they want to meet you.  If you give a reason and politely dismiss the original films, you sum them up and put them in their heads.  You walk in their thoughts.  They're busy planting a lot of plans to find you. ... I wish I could, but I have another schedule for the present Friday', Arif was an idea but I can't because there is work to be done this week. Not to accept their invitation
+The reasons for her use are samples that are illustrated.
+\n\n7 Be Selective, Not Selective \n
+- If you want women to chase you, the usual choice
+Move on to a change of mindset. In a world where many men are trying to be selective in women, you are different ... When you emerge with a position of selectiveness, you immediately stand out from other men.
+What do you have that makes you look like a joke and make it more attractive than other women? When you ask them, they are competitive, and they try to be chosen over others.
+\n\n8 When you meet them, make them disorified \n
+- Many times when men have the opportunity to talk to women, we get tired of talking about ourselves until we are thirsty for water, so when they remind us that they are not interested in getting us a second time, it makes them nauseous.
+So when you meet women, instead of making long speeches about yourself like Fidel Castro, women are once disenchanting to a man who makes them laugh naturally (biologically). Laughing is a shortcut to getting into a woman's heart and head, so women want to find you for the same laughter and games.
+\n\n9: Do Not Waste Bullets /n
+Don't let them read you as if they want to show yourself a book, and don't automatically shoot when a game begins on an occasion. Don't be quick to talk about yourself anymore to promote your name.
+To speak for yourself... Every time you don't rush to introduce yourself, their curiosity is heightened.  Just tell them when they ask for your name.  When they want to go into a deep game, say sorry now .Maybe we'll meet another time.  Their desire to know is going to drive them crazy.  Confidentiality creates curiosity.  And when both are combined, they lead to captivity.  So pretend to be a mystery person who is curious about yourself.
+\n\n10: Do Not Chase Them \n
+ - Create a world of your own that women crave by putting an invest on your head.  Happiness is not a trembling new experience but a beautifully wobbling personality that survives others.  Not that you chase women, but you become a desirable person for women to chase after you.
+
+
+
+
+
+
+
+
+"
+                android:textColor="#FFFFFF"
+                android:textSize="18sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+    </LinearLayout>
+</ScrollView>
+

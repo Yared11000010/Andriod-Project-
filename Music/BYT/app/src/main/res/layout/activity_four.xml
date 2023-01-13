@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="Seduction.Amharic.Four">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="1000dp"
+        android:background="@color/design_default_color_error"
+        android:orientation="vertical"
+        android:weightSum="11">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/txt_head"
+                android:layout_width="381dp"
+                android:layout_height="49dp"
+                android:layout_marginStart="23dp"
+                android:layout_marginLeft="23dp"
+                android:layout_marginTop="19dp"
+                android:layout_marginEnd="32dp"
+                android:layout_marginRight="32dp"
+                android:background="@drawable/bgd"
+                android:text="                   ቀጠሮ መያዝ"
+                android:textColor="#FFFFFF"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.36"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="match_parent"
+                android:layout_height="1000dp"
+                android:layout_marginStart="16dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginTop="100dp"
+                android:layout_marginEnd="14dp"
+                android:layout_marginRight="14dp"
+                android:background="@drawable/bgd"
+                android:gravity="center_horizontal|start"
+                android:text="ስልኳን ለሰጠችህ ልጅ በቀጣዩ ቀን “ትናንት ስላገኘሁሽ ደስ ብሎኛል፡፡ በነገራችን ላይ በሳምንቱ መጨረሻ አብረን ሻይ እንድንጠጣ ፈቃድሽ ቢሆን ደስ ይለኛል፡፡ ለማንኛውም ፃፊልኝ&quot; የሚል መልዕክት ብትፅፍላትና ምንም ምላሽ _ ባትስጥህ ሁለት ቀናት ጠብቀህ “በቀላሉ አልገኝም አይነት ጨዋታ እየተጫወትሽ ነው፡፡ በጣም አራዳ ነሽ፡፡&quot; የሚል መልዕክት ያዘለ ኢሜል መላክ ይጠበቅብሃል፡፡ ይኸኔ _ በእርግጠኝነት መልሷን መጠበቅ ትችላለህ፡፡ የሚላክልህም መልዕክት የተሸፋፈነ መልክ ያለው እንደሚሆን ጠብቅ፡፡ ያኔ ታዲያ አንተ መቼ ብደውል ነው የምትገኝው?&quot; የሚለውን ጥያቄህን ታነሳለህ፡፡ ይኸኔ ነገሮች ሁሉ ቀለሉ ማለት ነው፡፡ ምክንያቱም የተለዋወጣችኋቸው መልዕክቶች አንተን እንደጓደኛ እንድታስብህ ያደርጓታል፡፡ ስለዚህ ለጓደኛ ደግሞ የጠየቀውን የምትከለክልበት አሳማኝ ምክንያት አይኖራትም፡፡ \n\n በምትደውልላት ጊዜ ትንሽ ካዋራሃት በኋላ “ኦው በይ የሆነ እየሰራሁ ያለሁት ስራ አለ፡፡ መጨረስ አለብኝ፡፡ የሰሞኑ ዕቅድሽ ምንድን ነው? ለምን ነገ አስር ሰዓት ላይ ተገናኝተን ሻይ ቡና አንባባልም? እንትን ካፌን ታውቂዋለሽ አይደል? ከተግባባን ምሳ እንገባበዛለን፡፡ መጀመሪያ ሻይ ቡና እንላለን፡፡ በአካል ሳገኝሽ ደባሪ ከሆንሽ ደግሞ “በአስቸኳይ ቤት ገብቼ ውሻዬን መመገብ አለብኝ&quot; እልሽና ትቼሽ እሄዳለሁ&quot; ብትላት ግራ ይገባትና ትስቃለች፡፡ ከመሳቅም አልፋ “ይህ ሰው እየፈተነኝ ነው እንዴ&quot; የሚል ስሜት እንዲያድርባት ታደርጋለህ፡፡ ቀጥለህም “ያልኩሽ ካፌ እኮ : ከምሰራበት ቦታ ብዙም አይርቅም፡፡ እንዲያውም በር ላይ መጥተሽ አስጠሪኝ'' በላት፡፡ ቀድማም ሆነ አርፍዳ ብትመጣ እንተ ከመጠበቅ ትድናለህ፡፡ ከዚያም ላትመጪ የምትችይበት አጋጣሚ አለ እንዴ?&quot; የሚለውን ጥያቄህን ማስከተል ነው፡፡ ከዚያ የሚቀጥለውን መልስ ታዳምጥና “ለምን መሰለሽ እኔ የማልወደው ነገር ቢኖር ቀጠሮ አክብሮ አለመገኘትን ነው፡፡ ቀጠሮ ለማያከብር ሰው ምንም አይነት ይቅርታ አላደርግም፡፡ እኔ በሰዓቱ እገኛለሁ ካልኩ በሰዓቱ ነው የምገኘው፡፡ ግንኙነታችን ሳይጀመር እንዲቋረጥ ሊያደርግ የሚችል አንድ ነገር ቢኖር ዘግይተሽ መምጣትሽ ይሆናል፡፡ ለማንኛውም ከዘገየሽ እንዳትመጪ” ትላታለህ፡፡ ይህ በቀጠሮው ብትቀልድ ምን እንደሚከተል በግልፅ ያስቀምጥላታል።"
+                android:textColor="#FFFFFF"
+                android:textSize="18sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="379dp"
+                android:layout_height="79dp"
+                android:layout_marginStart="21dp"
+                android:layout_marginLeft="21dp"
+                android:layout_marginTop="12dp"
+                android:layout_marginEnd="11dp"
+                android:layout_marginRight="11dp"
+                android:text="ሴቶች ለመጀመሪያ ቀጠሮ ሲመጡ የሚያስቡት ምንድነው"
+                android:textColor="#FFF"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textView5" />
+
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="380dp"
+                android:layout_height="550dp"
+                android:layout_marginStart="21dp"
+                android:layout_marginLeft="21dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/bgd"
+                android:text="ሴቶች የሚጣመሩትን ወንድ ለረዥም ጊዜ ግንኙነት የሚሆን ወይም ለጊዜያዊ ስሜት ማርኪያ ብለው ይከፍሉታል፡፡ ስለዚህ ከሁለቱ ከየትኛው እንደምትመደብ መምረጥ ያንተ ሃላፊነት ይሆናል፡፡ ሁለቱም ዓይነት ግንኙነቶች የየራሳቸው የሆነ ጥንስስና መገለጫ መንገዶች አሏቸው፡፡ የመጀመሪያውና ለረዥም ጊዜ ግንኙነት የሚመጥን ተብሎ የሚመደብ አይነት ሰው ገና በመጀመሪያው ቀጠሮ በላይ በላዩ የሚጋብዝ፣ የምትፈልገውን ዕቃ እንዳሻት የሚገዛላት፣ ወደ ተመረጡ የመዝናኛ ስፍራዎች ይዟት የሚሄድ፣ ልክ እንደንግስት የሚንከባከባት ሆኖ ባገኘችው ጊዜ ነው፡፡ እንደዚህ አይነቱ ወንድ ለረዥም ጊዜ አብሮ ሊሆን የሚገባው መሆኑን ታስብና ወደ ግብረ-ስጋ ግንኙነት መሔድ እንደሌለባት ትወስናለች።  ስለዚህም ነው በረጅም ግንኙነት ስም ከቀረቧት የፍትወት-ስጋ ቁልፍ ማግኘት ከባድ የሚሆነው። በሌላ በኩል ግን የመጀመሪያው ቀጠሯችሁ ላይ ብዙም የማትፈልጋት አይነት ስሜት ይዘህ ካየችህ ነገር ግን ልትተውህ ደግሞ የሚከብዳት አይነት ሰው ሆነህ ከተገኘህ ልትመለከትህ የምትወደው በቀጥታ በወሲባዊ አይን ይሆናል።  ምክንያቱም ለረጅም ጊዜ ግንኙነት አይሆንም የሚል ስሜት ከተሰማት አንተን ሳታርቅህ ልታቆይበት የምትችለው መንገድ ግብረ-ስጋ መሆኑን ታስባለች።  "
+                android:textColor="#FFF"
+                android:textSize="18sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textView8" />
+
+            <TextView
+                android:id="@+id/textView11"
+                android:layout_width="380dp"
+                android:layout_height="70dp"
+                android:layout_marginStart="21dp"
+                android:layout_marginLeft="21dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginRight="10dp"
+                android:text="በመጀመሪያ ቀጠሮ ምን ማድረግ አለብህ?"
+                android:textColor="#FFF"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textView9" />
+
+            <TextView
+                android:id="@+id/textView12"
+                android:layout_width="380dp"
+                android:layout_height="2350dp"
+                android:layout_marginStart="21dp"
+                android:layout_marginLeft="21dp"
+                android:layout_marginTop="23dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/bgd"
+                android:text=' ቀጣይ የሚሆነው በቀጠሮው ሰዓት ተገናኝቶ መጫወት ይሆናል።  እዚ ላይ አንተ ልትጫወተው የሚገባ አንድ ዐየቢይ ሚና አለ።  አግኝተሃት ትንሽ እንዳወራችሁ በመገናኘታችን ደስ ብሎኛል።  ሌላው ቢቀር ቢያንስ ንፁህ ጓደኛሞች እንሆናለን" ብለህ ትጀምራለህ።
+                \nከዚያም በየጨዋታው መሀል "ደስ የምትል ጓደኛ ልትሆኚኝ ትችያለሽ ማለት ነው" እና ለአንቺ ለእህቴ ያልሆነ ደግሞ" አይነት ሃሳቦችን በየጣልቃው እያስገባህ ትቀጥላለህ።  እንደዚህ የምትለው ደግሞ ያለምክንያት አይደለም ይህንን የሚመስሉ ዓረፍተነገሮች ስትሰማ ልጅትዋ የመጀመሪያዋ ሊሆን ይችላል ይህ ደግሞ በተራው “ምን ቢጐድልኝ ነው በፍቅረኛነት ትቶ በተራው ጓደኝነት እንደሚፈልገኝ የነገረኝ?...... የሚል የውስጥ ለውስጥ በሃሳብ መብሰልሰል ያጭራል።
+                \nከዚያን ጊዜ ጀምሮ አንተ ትኩረት እንድትሰጣት ማድረግ ሌት ቀን ትተጋለች፡፡  አብራችሁ ሻይ ቤት ውስጥ በምትቆዩባቸው ጊዜያት በምንም ዓይነት ሁኔታ የፈላጊነት ስሜት ልታንፀባርቅ አይገባህም፡፡ የምታወራቸው ወሬዎች ፈገግ የሚያሰኙ ሆነው አንተ ግን ከአንድ ጓደኛህ ጋር እንደምትዝናና አይነት ሁኔታ መፍጠር መቻል አለብህ ሰውነቷን ከመነካካት ተቆጠብ መዳፍ _ ማንበብ _ የእጅ ማሳጅ እና የመሳሰሉት ክህሎቶችህ ለበኋላ ይጠቅሙሃልና ቆጥባቸው፡
+                \nከመነካካት መቆጠብህ በሌላ በኩል በኋላ ላይ ለምታገኘው የሰውነት ምላሽ ጠንካራነትም ያግዝሃል፡፡ ልጅቷ መልከ መልካም የምትባል አይነት hሆነች ደግሞ ውበቷን ከማጋነን ራስህን አድብ፡፡ ይልቁንስ እንከን የምትለውን ክፍሏን ፈልገህ ብዙም ሳታጋንን ሳታጋንን ለጓደኛህ እንደተቆረቆረ  አይነት ሰው “ለነገሩ ብዙም የሚያሳጣ አይደለም። ልታፍሪበትም አይገባም” በላት፡፡ በየጣልቃውም ከዚያ ነገር ጋ የተያያዙ ቀልዶችን እየፈጠርክ ተርባት፡፡ በቀጠሮህ ቀን ከልጅቷ ጋር ሻይ ቡና ከመባባል በዘለለ አብሮ የምትፈልግ ከሆነ ዕቃዎች ወደሚሸጡባቸው ቦታዎች መቆየት የምትሄዱበትን እድል አስብ፡፡ ይዘሃት ልትሄድ የምትችልባቸውን ቦታዎች የሚያስቁ ወይም የሚያገርሙ የዕቃ አይነቶች የሚሸጡባቸው ቦታዎች ይሁኑ።
+                \nለምሳሌ ያህል አሻንጉሊት የሚሸጥበት ሱቅ ይዘሃት ብትገባ በአሻንጉሊት ስትሳሳቁ ቆይታችሁ መልካም ጊዜን አሳልፋችሁ መለያየት ትችላላችሁ። አየህ! ለመደሰት ሁልጊዜ ገንዘብ ማውጣት ግዴታ አይደለም። የመጀመሪያ ቀጠሮ ቃለ-መጠይቅ አይደለም፡፡ በመጀመሪያ ቀጠሮ ማንኛውም ወንድ ሊያውቀው የሚገባ ነገር ይህ ነው፡፡
+                \nየስራ ማመልከቻ ልታስገባ ወይም ሰራተኛ ልትቀጥር አይደለም ወደ መጀመሪያ ቀጠሮ የምትሄደው። ስለዚህ ለቃለ መጠይቅ የቀረበ ሰው ማስመስልህን አቁም፡፡
+                \nሻይ ቤት ውስጥ ቁጭ ብለህ ለመጀመሪያ ቀጠሮ የተገናኙ በርካታ ጥንዶች ሲያወሩ ሰምተህ የምታውቅ ከሆነ እየተባለ ያለው ነገር ይገባሃል፡፡ ወንዶቹ በተደጋጋሚ የሚከተሉትን ጥያቄዎች ማቅረብ ይቀናቸዋል።
+                \n “እዚህ አካባቢ ነው ተወልደሽ ያደግሽው?”
+                \n “የት ነው የምትማሪው?”
+                \n “እህቶችና ወንድሞች አሉሽ?”
+                \n “በትርፍ ጊዜሽ ምን ማድረግ ይመችሻል?”  እነዚህን የመሳሰሉ ጥያቄዎች አሰልቺ ናቸው፡፡
+                \nስለ ትምህርት፣ ስራ፣ ቤተሰብ እና የመሳሰሉ ወሬዎችን ማንሳት ያለብህ የሚወራ ነገር ሲያልቅብህ ብቻ መሆን አለበት፡፡ ከላይ የተጠቀሰውን ስህተት ወንዶች በተደጋጋሚ የሚሰሩበት ምክንያት ቤተሰብ የሚወዱ፣ ጥሩ ስራ ያላቸውና የተረጋጋ ህይወት የሚመሩ መሆናቸውን ለማሳወቅ ባላቸው ፍላጎት ነው፡፡
+                \nበተለምዶ እንደዚህ መስለው ከቀረቡና ጥሩ እራት ከጋበዟት እንዲሁም ያረጁና ያፈጁ ቴክኒኮችን በመጠቀም ቢያንስ ልጅቷን የመሳም ዕድል ይፈጠርልኛል ብለው ያስባሉ፡፡ ይሁንና ይህ አካሄድ በምንም መልኩ ውጤታማ አያደርግም፡ የተደጋገመና ማንም ወንድ ሊያወራው የሚችለው ወሬ ሴቶችን አይመስጣቸውም፡፡ እነርሱን ለመሳብ በፌዝ የተሞላና ውበት ያለበት ጨዋታ ያስፈልግሃል፡፡ ጨዋታን ማጣፈጥ እንዴት እንደምትችል መማር አለብህ፡፡ አሰልቺ ርዕሰ-ወሬዎችን አስወግደህ ስለሌላ አስደሳች ነገር ማውራት መቻል ይጠበቅብሃል፡፡
+                \nምናልባት የተለመደ ዓይነት ወሬ ማውራት ቢኖርብህ እንኳን የሚከተሉትን ሞክራቸው፡፡
+                \n\n1. ታሪክ፡- ሴቶች ታሪክ መስማት ያስደስታቸዋል፡፡ በተለይ ደግሞ ስለቦታዎች ታሪክ፣ አሰያየም፣ ከተማው ለምን እዚህ ቦታ ላይ እንደተቆረቆረና የመሳሰሉትን ብታወራላት የተሻለ ታስደስታታለህ፡፡
+                \n\n2. ለየት ስላሉ የቅንጦት ስለሆነ ነገሮች በማውራት ልትመስጣት ትችላለህ፡፡ ስለፋሽን አንዳንድ ነገሮችን እያነሳህ አጫውታት፡፡ ከተማ ውስጥ እየተለበሱ ስላሉ ልብሶች እያነሳህ አዋራት፡፡
+                \n\n3. የሚያስቁ ስነ-ልቦናዊ አስተያየቶችን በሌሎች ሰዎች ላይ መስጠት ልመድ፡፡ “እኔ የምለው የመኪና አደጋ የበዛው በርካታ አሽከርካሪዎች የዘመኑን ዘፋኞች ሞትኩልሽ አበድኩልሽ ዘፈኖች እያዳመጡ ስለሚነዱ ነው አይደል?" እና የመሳሰሉ ወሬዎችን እያነሳህ ቆይታችሁን አሰልቺ ከመሆን ታደገው፡፡ ፍላጎቷን ማሟላት ከፈለግህ የሚስብ ሆነህ መቆየት አለብህ። ይህ በአንድ ቀን ውስጥ የምታመጣው ለውጥ አይሆንም፡፡ ለተወሰኑ ቀናት መለማመድ አለብህ፡፡ በተሳሳተው ጎዳና ረዥም ርቀት ብትሔድ እንኳን መመለስ እንዳለብህ አትርሳ፡፡ ትክክለኛውን አካሄድ መማርና መለማመድ አለብህ፡: '
+                android:textColor="#FFF"
+                android:textSize="18sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textView11" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+    </LinearLayout>
+</ScrollView>
+

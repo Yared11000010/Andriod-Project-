@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="Seduction.Amharic.Eight">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="1000dp"
+        android:background="@color/design_default_color_error"
+        android:orientation="vertical"
+        android:weightSum="11">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/txt_head"
+                android:layout_width="381dp"
+                android:layout_height="49dp"
+                android:layout_marginStart="23dp"
+                android:layout_marginLeft="23dp"
+                android:layout_marginTop="19dp"
+                android:layout_marginEnd="32dp"
+                android:layout_marginRight="32dp"
+                android:background="@drawable/bgd"
+                android:text="Eliminate instability and anxiety"
+                android:textColor="#FFFFFF"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.36"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="match_parent"
+                android:layout_height="3800dp"
+                android:layout_marginStart="16dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginTop="100dp"
+                android:layout_marginEnd="14dp"
+                android:layout_marginRight="14dp"
+                android:background="@drawable/bgd"
+                android:gravity="center_horizontal|start"
+                android:text="One of the main causes of sexual dysfunction is instability and apathy. Instability and curiosity are two sides of the coin. When a person seeks undue attention and recognition, he or she is called greedy. When he tries to do these things, he is clearly As a result, the person's mood swings are uncertain and volatile. It tries to instill self-confidence in a person who is clearly lying. They talk about things that do not fit their place and circumstances in order to get the &quot;know-it-all&quot; confirmation from others. Women, on the other hand, are less likely to be insecure and anxious than men. Let's take a look at some of the traits that should be avoided:
+                \n\n->Hang on to a girl Don't touch her too much from the start.
+                \nWomen are less likely to want to have sex than to have sex. Instead, let her relax, for she is with you.
+                \n\n-> Talking about bad things about your ex-girlfriend
+                \nIf you talk about the bad things about your ex-girlfriends or if you talk about bad things about women in general, it will lessen the value of your feelings.
+                \n\n-> Emotionally Responding
+                \nIf a young girl knows that you can easily get upset, she will classify you as unstable.
+                \n\n-> Difficult to make decisions Women will be happy when you decide for yourself what to do next. If you start with the question, &quot;What do you think I should do&quot; or &quot;Where do you want to go&quot;? Decide! Act accordingly. If she has a different opinion, she will let you know.
+                \n\n-> Hypocrisy
+                \nis the direct message to women that you have low self-esteem.
+                \n\n-> Some people seem to have to contend with everything. If you are one of those people, you have a problem with instability and insecurity. You may be right, but being too argumentative is dangerous. Even if you want to argue, don't do it jokingly.
+                \n\nDetermining the line of communication The good news is that in a relationship with a girl, your personality is the biggest and most important thing. Additionally, you can change it at any time. Moreover, it is a tool that can overcome all others. By the way, it may not be your identity that attracts women and then attracts them. The important thing is how they feel when they are with you and when they think about you. So, if you are not rich or powerful, you need to use your personality to make her feel good. Finally, you need to know that your personality is your greatest tool.
+                                                 \n\n            The personality that women love
+                \n\nFunny:-
+                \nIf you can make her laugh, you can go a long way. Your jokes are powerful. -Explained to be educated - An educated man attracts women.
+                \n\nElegant and polite:-
+                \nIf you are clean and tidy, women will love you. Do your shoes and belt go together? Do you know about home decoration and color choices? Do you see foreign films? Do you admire? Do you understand fashion? Do you enjoy overseas cuisine? Women mean these things.
+                \n\nExcellence: Presence:
+                \nThe superiority of men attracts women without thinking. The powerful males make up 3/4 (75%) of the sexual relations between animals. The rest are usually left empty-handed. This fact also applies to man.
+                \n\nConsideration:-
+                \nThe women want you to give them a gift just to know that you care about them. Gifts are a sign. If you give them a card, the difference is not so great (of course, gold can prolong their happiness). Because this means that you must be thinking about her.
+                \n\nDiscernment:
+                \nWomen not only understand details but also use them to be attractive and active.
+                \n\nBecome an adult ፡
+                \nIf you develop a deep knowledge of what a woman likes, this will be attractive to her. Be aware that your presentation should be in the direction of &quot;I know a lot about you&quot; and not &quot;I am smart but you are not.&quot;
+                \n\nFocusing:
+                \nWomen need attention. But it is not fair to say that you have to pay attention. For example, if you say, &quot;I thought you were. I just want to tell you that I really like your voice,&quot; she says.
+                \n\nLack of interest:-
+                \nindifference. If you ignore her, make her think you are crazy, make her look attractive, and do her best to attract your attention. They do not want to believe it, but they do enjoy it.
+                \n\nHorizon of Love:-
+                \nTo learn about a girl's beauty, not only to look and feel but also to understand her inner self. Learn as much as you can about interesting stories, interesting stories, poetry and commentary.
+                \n\nExercises:-
+                \nhelp languages learn- This is a topic that is widely used by women and we will discuss it in more detail in the next chapters.
+                \n\nBeing the King of the Bed:-
+                \nWhen a girl meets a man who satisfies her sexual urges and shows him new and unusual ways, she quickly becomes addicted. However, such a man is not easily found.
+                \n\nTo summarize, the instructions that we use as the main tool are:
+                \n\n1. Never give a straight answer to a girl,
+                \n unless your answer is no. &quot;Shall we sit here?&quot; If you say no, then the next step is better. &quot;How did you see my dress?&quot; If you send it, say, &quot;I think I like it gradually. But before I make a decision, I want to see you get a little angry.&quot; If you say, &quot;Call me tomorrow,&quot; you can say, &quot;No, you can call me tomorrow. Do you want me?&quot; I'll come later, &quot;she said.&quot; I really need you. Let's make love. &quot; But you have to wait a little longer and say, 'I'm not done yet.' not at all!
+                \n\n2. If she complains about what you said or did, push her into action.
+                \n If you say, &quot;I don't really like that,&quot; you say, &quot;Oh no! If you want to, you can go out.
+                \n\n3. Women often test you to see if you go along with them.
+                \nAs soon as their temptation is over, they will either marry you or leave you. If you are in a relationship with a beautiful woman, you will see her doing a lot of nonsense. Beautiful women can easily get everything they want. They are desperately looking for a man who can challenge them. Many men think that they can handle a beautiful woman without having to deal with it. This is completely foolish.
+                \n\n4. Create mixed emotions. Tell her you want to be her best friend and kiss her. Tell her and tell her that what she did is unacceptable. When she does something nice, make her seat. Give her two different responses to something. For example, when you come to rest on your knees, you push on the first kiss and then on the second. Never anticipate the next one. "
+                android:textColor="#FFFFFF"
+                android:textSize="18sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+    </LinearLayout>
+</ScrollView>
+

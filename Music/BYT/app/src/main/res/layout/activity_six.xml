@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="Seduction.Amharic.Six">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="1000dp"
+        android:background="@color/design_default_color_error"
+        android:orientation="vertical"
+        android:weightSum="11">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/txt_head"
+                android:layout_width="381dp"
+                android:layout_height="49dp"
+                android:layout_marginStart="23dp"
+                android:layout_marginLeft="23dp"
+                android:layout_marginTop="19dp"
+                android:layout_marginEnd="32dp"
+                android:layout_marginRight="32dp"
+                android:background="@drawable/bgd"
+                android:text="ፍላጎት እንዳላት የሚያሳዩ 10 ምልክቶች"
+                android:textColor="#FFFFFF"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.36"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="match_parent"
+                android:layout_height="2200dp"
+                android:layout_marginStart="16dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginTop="100dp"
+                android:layout_marginEnd="14dp"
+                android:layout_marginRight="14dp"
+                android:background="@drawable/bgd"
+                android:gravity="center_horizontal|start"
+                android:text="ቀጥለው ከተዘረዘሩት የድርጊትና የንግግር ምልክቶች መካከል ከግማሽ በላይ የሚሆነውን ካስተዋልክ ልጅቷ ፍላጎት አላት ማለት ነው ምልክቶቹን አንድ በአንድ እንያቸው .... \n\n1.ፀጉር መጠቅለል:\nበፀጉር መጫወት አጠገብህ ተቀምጣም ይሁን በርቀት አንተን እያየች ፀጉራን የምትጠቀልል ከሆነ ፍላጎቷን እየገለፀች ነው ።ፀጉራ ን የምትመቀልለው ሆነ ብላ ላንተ መልዕክት ለማስተላለፍ ሳይሆን ውስጧ ያለው ፍላጎትና ስሜት ሳይታወቃት እንደዛ እንድታደርግ ስለሚያስገድዳት ነው ። \n\n2.ከንፈር መንከስ:\nከንፈር መምጠጥ ከንፈር መምጠጥ ከንፈር መንከስ ሴቶች ሳይታወቃቸው የሚያከናውኑት ሌላ ፍላጎት የስሜት ምልክት ነው ።ይህ ምልክት ያንተን ተኩረት ወደከንፈሯ ለመሳብ የመሳም ፍላጎት እንዳላት ለመግለጽ የሚተላለፍ ምልክት ነው ። \n\n3.በዐካል መጠጋት:\nአንድ ላይ ፊትለፊት ተቀምጣችሁ በምታወሩበት ጊዜ ወዳንተ የበለጠ የምታዘነብል ከሆነ ሌላው በፍላጎት ማሳያነት የሚጠረጠር ምልክት ነው ።አጆቿን አጣምራ ወደ ኋላ ለጠጥ ስትል ፍላጎት አለመኖርን አንደሚያሳይ ሁሉ እጆቿን ከፍታ ፈታ ዘና ብላ ወዳንተ ከተጠጋች ደግሞ ካንተ ጋር በአካል የመቀራረብ የመተቃቀፍ ፍላጎት እንዳላት የሚያሳይ ነው ። \n\n4.ያልተጠበቀ ግልጽነት:\nሰዎች ሚስጥራቸውን የሚነግሩት በጣም ለሚቀርቡት ለሚወዱት ሰው ነው ።ሚስጥር መጋራት የቅርበት መለኪያም ተደርጎ ይወሰዳል ።እናም ሚስጥር እንኳ ባይሆን ገና በደንብ ሳትቀራረቡ የራሷን የቤተሰቧን ታሪኮች ካወራችህ ካንተ ጋር ያላትን የመቀራረብ ፍላጎት የሚያሳይ አንድ ምልክት ነው ። \n\n5.የምታደርገውን መድገም:\nሴቶች ሳይታወቃቸው ከሚያደርጓቸው ነገሮች መካከል አንዱ Mirroring የሚባለው ምልክት ነው ።አንዲት ሴት አንተ የምታረገውን እንቅስቃሴ የምታደርግ ከሆነ ፍላጎት እንዳላት የሚያሳይ ነው ።ለምሳሌ አንድ ላይ ምግብ እየበላችሁ እያለ ያንተን እንቅስቃሴ እየተከተለች አንተ ስታነሳ እያነሳች ስትጎርስም እነጎረሰች እንዲሁም ሌሎች እንቅስቃሴዎች አንተን እየተከተለች የምትደግም ከሆነ ሳታውቀው ፍላጎቷን እየገለፀች ነው።ይህ ምልክት በርቀትም ሊታይ ይችላል ። \n\n6.አንገት መስበር፣ :\nሴት ልጅ ፈገግታ በራሱ የሚያስተላልፈው የምስራች አለው ።በተለይ አንገት መስበር እና ፈገግታ ተደምሮ የሚሰጠው ውጤት ደሞ ልቤ እንደወደደህ ተረዳልኝ የሚል አይነት ነው ። ከርቀትም ይሁን ከቅርበት አንገቷን ሰበር አድርጋ ፈገግታ ከጨመረችበት ....እንኳን ደስ አለህ \n\n7.የዐይን ጨዋታ:\nሴቶች መፈለጋቸውንም ሆነ አለመፈለጋቸውን ለማሳየት የሚጠቀሙበት መሳሪያቸው.....ኒውክለራቸው አይናቸው ነው። ከፈለጉህ ደጋግመው ሲያዪህ ትይዛቸዋለህ ካልፈለጉ ደሞ ጭራሽ ላያዪህ ይችላሉ ።ሴት ልጅ ከፈለገችህ ዐይኗ ልክ የሀይል ማመንጫ እንደሚያገለግል የልማት ኒውክለር ይሆናል ።ስለዚህ ደጋግማ ስታይህ ዐይን ለዐይን ከተጋጫችሁ መልካም መልዕክቱ ይድረስህ ። \n\n8.ትጠይቅሀለች:\nፍላጎት ሲኖራት የበለጠ አንተን የማወቅ የማወቅ ጉጉት ሲያድርባት በተለያዪ ጥያቄዎች ታጣድፍሀለች ።ከልጅነትህ ጀምሮ ያለውን ታሪክህን መስማት ትፈልጋለች ።ስታወራት በጉጉት ታደምጥሀለች ማሰባሰቢያ ፦ ምንም እንኳን አንተን የማወቅ ፍላጎት ቢኖራትም የምትጠይቀው ጥያቄ በሙሉ በመመለስ ማወቅ የፈለገችውን ሁሉ በአንዴ አታሳውቃት ። በአንዴ ካወቀች ሌላ ጊዜ አንተን የማግኘት ፍላጎቷ ሊቀንስ ይችላል ።\'\'የቀረውን ደሞ ሌላ ጊዜ ብለህ አሳጥረው ። \n\n9.ትነካካሀለች ትመታሀለች:\nበጨዋታ መሀል በእጃ እጅህን ትከሻህንና ጀርባህን ከነካካችህ ሳይታወቃት ፍላጎት እንዳላት እየነገረችህ ነው ።አሁንም በጨዋታ መሀል አንተ በሚል አይነት መታ የምታደርግህ ከሆነ ....ብንነካካ የበለጠ ብንቀራረብ ብንተቃቀፍ ደስተኛ ነኝ የሚል ስውር መልእክት የተላለፈልህ ነው ። \n\n10.ትስቅልሀለች:\nለጓደኞችህ ነግረህ ያላሳቃቸውን ቀልድ ስትነግራት ከት ብላ ከሳቀች \'\'ይኸው ቀልዴ ያስቃል \'\' ብለህ እንዳትኩራራ ከት ብላ የሳቀችው ቀልድህ የሚያስቅ ሆኖ ሳይሆን ስለምትወድህ ስለምትፈልግህ ነው ።ምክንያቱም ሴቶች ፍላጎታቸው የሚያሳዩበት መንገድ አንዱ መሳቅ ነው ። ከወደዱህ የምትነግራቸው ቀልድ ባያስቅም ይስቁልሀል ።"
+                android:textColor="#FFFFFF"
+                android:textSize="18sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+    </LinearLayout>
+</ScrollView>
+

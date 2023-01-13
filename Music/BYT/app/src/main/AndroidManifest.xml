@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.test.sms">
+
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="BYT"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="Animation.Anim_byt">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="Seduction.English.Eng_Twelve" />
+        <activity android:name="Seduction.English.Eng_Eleven" />
+        <activity android:name="Seduction.English.Eng_Ten" />
+        <activity android:name="Seduction.English.Eng_Nine" />
+        <activity android:name="Seduction.English.Eng_Eight" />
+        <activity android:name="Seduction.English.Eng_Seven" />
+        <activity android:name="Seduction.English.Eng_Six" />
+        <activity android:name="Seduction.English.Eng_Five" />
+        <activity android:name="Seduction.English.Eng_Four" />
+        <activity android:name="Seduction.English.Eng_Three" />
+        <activity android:name="Seduction.English.Eng_Two" />
+        <activity android:name="Seduction.English.Eng_One" />
+        <activity android:name="Seduction.Amharic.Eleven" />
+        <activity android:name="Item.Contact_Us" />
+        <activity android:name="Item.About" />
+        <activity android:name="Seduction.Amharic.Ten" />
+        <activity android:name="Seduction.Amharic.Nine" />
+        <activity android:name="Seduction.Amharic.Eight" />
+        <activity android:name="Seduction.Amharic.Seven" />
+        <activity android:name="Seduction.Amharic.Six" />
+        <activity android:name="Seduction.Amharic.Five" />
+        <activity android:name="Seduction.Amharic.Four" />
+        <activity android:name="Seduction.Amharic.Three" />
+        <activity android:name="Seduction.Amharic.two" />
+        <activity android:name="Animation.Anim_ms" />
+        <activity android:name="Animation.Anim_note" />
+        <activity android:name="Seduction.Amharic.One" />
+        <activity android:name="Animation.Anim_sed" />
+        <activity android:name="Seduction.grid_eng" />
+        <activity android:name="Seduction.grid_amh" />
+        <activity android:name="Seduction.Amharic.amharic_twelve" />
+        <activity android:name="Seduction.Seduction" />
+        <activity
+            android:name=".byt_home"
+            android:label="BYT App&apos;s"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="Note.Details" />
+        <activity android:name="Note.Edit" />
+        <activity android:name="Note.AddNote">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="Note.Main" />
+        </activity>
+        <activity android:name="Note.Main" />
+        <activity
+            android:name=".SmsScheduleActivity"
+            android:label="@string/createSmsHeader"
+            android:launchMode="singleTop" />
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/indexActivityHeader"
+            android:launchMode="singleTask" />
+
+        <receiver android:name=".AlarmReceiver" />
+        <receiver android:name=".NotifyUser" />
+
+        <activity
+            android:name=".SelectContactActivity"
+            android:launchMode="singleTask" />
+        <activity
+            android:name=".SmsManagerActivity"
+            android:label="@string/smsManagerHeader"
+            android:launchMode="singleTask" />
+        <activity
+            android:name="Animation.Onboard"
+            android:label="BYT APP&apos;s">
+
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="Seduction.Amharic.Six">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="1000dp"
+        android:background="@color/design_default_color_error"
+        android:orientation="vertical"
+        android:weightSum="11">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/txt_head"
+                android:layout_width="381dp"
+                android:layout_height="49dp"
+                android:layout_marginStart="23dp"
+                android:layout_marginLeft="23dp"
+                android:layout_marginTop="19dp"
+                android:layout_marginEnd="32dp"
+                android:layout_marginRight="32dp"
+                android:background="@drawable/bgd"
+                android:text="                       Alpha Male!"
+                android:textColor="#FFFFFF"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.36"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="match_parent"
+                android:layout_height="4200dp"
+                android:layout_marginStart="16dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginTop="100dp"
+                android:layout_marginEnd="14dp"
+                android:layout_marginRight="14dp"
+                android:background="@drawable/bgd"
+                android:gravity="center_horizontal|start"
+                android:text="32 Alpha Male Qualifications
+                \n\nAlpha Male All men want and want to be the highest level of men. Being an Alpha Male is a major milestone for men.  Alpha masculinity is not just about appealing to women. Alpha masculinity is a far more profound and profound masculine, life, intellect, success, strength, maturity, philosophy, personality ... Every man is born with a yeast that can make &quot;alpha&quot;, so every man is likely to be &quot;alpha&quot;.  What are the potential benefits of a male alpha male? The 33 qualifications selected are as follows.  \
+                \n\n1, Alpha Male does not give up He does not give up until he has finished.
+                \n\n2, Alpha Male can take care of himself and his family.
+                \n\n3, Alpha Male Exercise Maintains Health and Position. As a result, it has a plant that can easily attract women.
+                \n\n4, Alpha Male works boldly and hardly to achieve his goals.
+                \n\n5, Alpha Male is a playwright. He can talk fluently. People are surrounded by rumors.
+                \n\n6, Alpha Male tells a lot of stories about travel and various experiences.
+                \n\n7, Alpha man jokes about himself.
+                \n\n8, Alpha Male is humble. He was respectful and humble, accepting human ideas and opinions.
+                \n\n9, Alpha Male loves knowledge. He is always a student. He has general knowledge.
+                \n\n10, Alpha Male is the kind of person everyone wants to spend time with.
+                \n\n11, Alpha Male is frugal. He does not speak to hear his own voice. He does not like to speak out loud. He speaks calmly, and he is heard when he speaks.
+                \n\n12, Alpha Male is a man of purpose. He uses his time wisely to accomplish his purpose. He fully understands the purpose of his existence and works hard to achieve his purpose. He is a man of integrity, a man of integrity. He is a hard worker.
+                \n\n13, Alpha Male does not complain. He believes that everything is out of control. So he does as much as he can ... he tries to do what he can't, he doesn't complain. He does not worry about tomorrow, because he is busy using it today.
+                \n\n14, Alpha Male never gets into an argument. He does not insult. He tries to be patient when people want something. He does not say, 'Catch me and let me go.'
+                \n\n15, Alpha Male has his own style of dress. He knows how to dress beautifully.
+                \n\n16, Alpha respects men and women. It provides the necessary attention and respect for women. It opens the door for them. Prioritize. He helps them to achieve their dreams and visions.
+                \n\n17, the alpha male respects himself, giving priority to his purpose. He does not try to please everyone. He does not allow anyone to boast about him, not even the woman he loves. He does not want to be under the control of anyone. He does not approach a woman who is jealous and addicted to drugs.
+                \n\n18, Alpha does not like male shortcuts. He does not want to commit crimes and honor people and be successful. Prioritizes moral and social values before success.
+                \n\n19, Alpha Male is generous. He is not greedy for success alone. It shows people the way to success. He realizes that true satisfaction is not gained by success but by giving up one's legacy. He believes Legacy is there to help others get a better chance.
+                \n\n20, Alpha is a male leader. He is not a leader who commands others to do what he does not do, but he is a true leader who works by example.
+                \n\n21, Alpha Male dares to try something new. He dares to walk in a new way that other people are afraid of. He has a strong belief that there is a good chance behind fears and anxieties. He is not afraid of criticism and failure. Repeatedly trying to be successful will help.
+                \n\n22, Alpha male self-confident. He is confident. It never pays attention to what people say. He does what he believes and does. He knows that no one in his life is more important than he is. Not only is he self-confident but he is also a symbol of self-confidence.
+                \n\n23, Alpha Male is not emotional. It does not depend on emotions. He does not do anything emotionally, he thinks calmly, he decides calmly. He is not a fanatic.
+                \n\n24, Alpha Male is a decision maker. He does not expect decisions from others. He knows where he wants to go in life ... and he works hard to get there. He works to achieve what he set out to do. For various reasons, it does not deviate from the plan.
+                \n\n25, Alpha Male is the solution man. When problems arise, instead of panicking, they try to solve them quickly. His ability to solve problems is also respected by the people at work and in the community. People consult him when they have problems. He will not be ashamed.
+                \n\n26, Alpha chooses a man, not a man. He spends most of his time in pursuit of life, and he is not easily accessible. He does not worry about attracting women. Instead, women try to seduce him. He also has the opportunity and the power to choose what he wants because he is wanted by many women.
+                \n\n27, Alpha man admits his mistake. He apologizes and does not say, &quot;I am not wrong.&quot; Encouraging and entertaining people is one of the principles of life. However, if a person is offended and realizes that he is wrong, he will not hesitate to apologize in public and will not hesitate to apologize to the offender at his home or office.
+                \n\n28, Alpha Male does not need human approval. He is the protagonist of happiness, success, failure, and growth. It does not require human approval or approval to enjoy it. He does not blame others for their failures and failures. The cause of his success and failure is his own and his own.
+                \n\n29, Alpha prefers male. Carefully plan your recreation and time with whom you will spend time. So he chooses the people he wants to be with. The people he chooses to spend time with are like Alpha or Alpha. He also enjoys spending time with his peers or those who are older or more knowledgeable.
+                \n\n30, his attitude is very positive. He believes that problems are the cause of innovations. Therefore, instead of complaining every time a problem arises, look for solutions ....... He prefers to see good opportunities behind problems.  \
+                \n\n31, Alpha Male is punctual. \nHe knows that time is the key to a successful and happy life. Just as a person does not like to waste his time, he does not like to waste people's time. He uses his time wisely and does not rush into anything. He does everything calmly. He keeps appointments. He also wants people to keep appointments.  \
+                \n\n32, Alpha Male is an example of strength. \nIts many facets make it a symbol of true strength. The strength of his abilities makes his family, friends, colleagues, employees ... trust him. No matter when the women are with him "
+                android:textColor="#FFFFFF"
+                android:textSize="18sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+    </LinearLayout>
+</ScrollView>
+
